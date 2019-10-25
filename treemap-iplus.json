@@ -1,0 +1,4118 @@
+[
+  {
+    "id": 1,
+    "keyword": "keyword1",
+    "term": "design process",
+    "title": "The creation of the \"Bussed Out | How America moves its homeless\" article",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1,
+    "keyword": "keyword2",
+    "term": "humanities",
+    "title": "The creation of the \"Bussed Out | How America moves its homeless\" article",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1,
+    "keyword": "keyword3",
+    "term": "journalism",
+    "title": "The creation of the \"Bussed Out | How America moves its homeless\" article",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1,
+    "keyword": "keyword4",
+    "term": "data visualization",
+    "title": "The creation of the \"Bussed Out | How America moves its homeless\" article",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1,
+    "keyword": "keyword5",
+    "term": "scrollytelling",
+    "title": "The creation of the \"Bussed Out | How America moves its homeless\" article",
+    "country": "Netherlands"
+  },
+  {
+    "id": 1,
+    "keyword": "keyword6",
+    "term": "innovation",
+    "title": "The creation of the \"Bussed Out | How America moves its homeless\" article",
+    "country": "Netherlands"
+  },
+  {
+    "id": 2,
+    "keyword": "keyword1",
+    "term": "Web Traffic",
+    "title": "A Random Walk Down a Website",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "keyword": "keyword2",
+    "term": "design",
+    "title": "A Random Walk Down a Website",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "keyword": "keyword3",
+    "term": "visualization",
+    "title": "A Random Walk Down a Website",
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "keyword": "keyword1",
+    "term": "Silicon Valley Design",
+    "title": "No man (or woman) is an island: Moving design beyond the individual",
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "keyword": "keyword2",
+    "term": "Digital Products",
+    "title": "No man (or woman) is an island: Moving design beyond the individual",
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "keyword": "keyword3",
+    "term": "Individualism",
+    "title": "No man (or woman) is an island: Moving design beyond the individual",
+    "country": "USA"
+  },
+  {
+    "id": 4,
+    "keyword": "keyword1",
+    "term": "Sprint",
+    "title": "Sprinting with Data",
+    "country": "Australia"
+  },
+  {
+    "id": 4,
+    "keyword": "keyword2",
+    "term": "data",
+    "title": "Sprinting with Data",
+    "country": "Australia"
+  },
+  {
+    "id": 4,
+    "keyword": "keyword3",
+    "term": "design",
+    "title": "Sprinting with Data",
+    "country": "Australia"
+  },
+  {
+    "id": 5,
+    "keyword": "keyword1",
+    "term": "change of practice",
+    "title": "The Data Visualization Cycle of the Quantified Self",
+    "country": "Switzerland"
+  },
+  {
+    "id": 5,
+    "keyword": "keyword2",
+    "term": "cybernetics",
+    "title": "The Data Visualization Cycle of the Quantified Self",
+    "country": "Switzerland"
+  },
+  {
+    "id": 5,
+    "keyword": "keyword3",
+    "term": "design process",
+    "title": "The Data Visualization Cycle of the Quantified Self",
+    "country": "Switzerland"
+  },
+  {
+    "id": 5,
+    "keyword": "keyword4",
+    "term": "quantified self",
+    "title": "The Data Visualization Cycle of the Quantified Self",
+    "country": "Switzerland"
+  },
+  {
+    "id": 6,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "041/342 [from psychedelic rock to minimalism]",
+    "country": "Israel"
+  },
+  {
+    "id": 6,
+    "keyword": "keyword2",
+    "term": "design",
+    "title": "041/342 [from psychedelic rock to minimalism]",
+    "country": "Israel"
+  },
+  {
+    "id": 6,
+    "keyword": "keyword3",
+    "term": "music",
+    "title": "041/342 [from psychedelic rock to minimalism]",
+    "country": "Israel"
+  },
+  {
+    "id": 6,
+    "keyword": "keyword4",
+    "term": "Insights",
+    "title": "041/342 [from psychedelic rock to minimalism]",
+    "country": "Israel"
+  },
+  {
+    "id": 7,
+    "keyword": "keyword1",
+    "term": "film",
+    "title": "Film as Data Viz",
+    "country": "Czechia"
+  },
+  {
+    "id": 7,
+    "keyword": "keyword2",
+    "term": "Cinema",
+    "title": "Film as Data Viz",
+    "country": "Czechia"
+  },
+  {
+    "id": 7,
+    "keyword": "keyword3",
+    "term": "Dataviz",
+    "title": "Film as Data Viz",
+    "country": "Czechia"
+  },
+  {
+    "id": 7,
+    "keyword": "keyword4",
+    "term": "Nuclear war",
+    "title": "Film as Data Viz",
+    "country": "Czechia"
+  },
+  {
+    "id": 7,
+    "keyword": "keyword5",
+    "term": "War",
+    "title": "Film as Data Viz",
+    "country": "Czechia"
+  },
+  {
+    "id": 8,
+    "keyword": "keyword1",
+    "term": "data literacy",
+    "title": "Databilities™: A Data Literacy Competency Framework for the Measurement and Development of Global Data Literacy",
+    "country": "Australia"
+  },
+  {
+    "id": 8,
+    "keyword": "keyword2",
+    "term": "databilities",
+    "title": "Databilities™: A Data Literacy Competency Framework for the Measurement and Development of Global Data Literacy",
+    "country": "Australia"
+  },
+  {
+    "id": 8,
+    "keyword": "keyword3",
+    "term": "competency framework",
+    "title": "Databilities™: A Data Literacy Competency Framework for the Measurement and Development of Global Data Literacy",
+    "country": "Australia"
+  },
+  {
+    "id": 8,
+    "keyword": "keyword4",
+    "term": "education",
+    "title": "Databilities™: A Data Literacy Competency Framework for the Measurement and Development of Global Data Literacy",
+    "country": "Australia"
+  },
+  {
+    "id": 8,
+    "keyword": "keyword5",
+    "term": "literacy",
+    "title": "Databilities™: A Data Literacy Competency Framework for the Measurement and Development of Global Data Literacy",
+    "country": "Australia"
+  },
+  {
+    "id": 9,
+    "keyword": "keyword1",
+    "term": "open source",
+    "title": "Vizualizing contributions to a large open-source dictionary",
+    "country": "Germany"
+  },
+  {
+    "id": 9,
+    "keyword": "keyword2",
+    "term": "change log visualization",
+    "title": "Vizualizing contributions to a large open-source dictionary",
+    "country": "Germany"
+  },
+  {
+    "id": 9,
+    "keyword": "keyword3",
+    "term": "Zipf's law",
+    "title": "Vizualizing contributions to a large open-source dictionary",
+    "country": "Germany"
+  },
+  {
+    "id": 10,
+    "keyword": "keyword1",
+    "term": "design",
+    "title": "Access to Information Design: A Design Tool For the People",
+    "country": "USA"
+  },
+  {
+    "id": 10,
+    "keyword": "keyword2",
+    "term": "tool",
+    "title": "Access to Information Design: A Design Tool For the People",
+    "country": "USA"
+  },
+  {
+    "id": 10,
+    "keyword": "keyword3",
+    "term": "access",
+    "title": "Access to Information Design: A Design Tool For the People",
+    "country": "USA"
+  },
+  {
+    "id": 11,
+    "keyword": "keyword1",
+    "term": "Data Equity",
+    "title": "Data Equity and Conscious Information Design",
+    "country": "USA"
+  },
+  {
+    "id": 11,
+    "keyword": "keyword2",
+    "term": "Equity-centered",
+    "title": "Data Equity and Conscious Information Design",
+    "country": "USA"
+  },
+  {
+    "id": 11,
+    "keyword": "keyword3",
+    "term": "Design Justice",
+    "title": "Data Equity and Conscious Information Design",
+    "country": "USA"
+  },
+  {
+    "id": 12,
+    "keyword": "keyword1",
+    "term": "city mapping",
+    "title": "Mapping city outskirts through the mix of cultural, commercial, social and environmental variables",
+    "country": "Italy"
+  },
+  {
+    "id": 12,
+    "keyword": "keyword2",
+    "term": "social innovation",
+    "title": "Mapping city outskirts through the mix of cultural, commercial, social and environmental variables",
+    "country": "Italy"
+  },
+  {
+    "id": 12,
+    "keyword": "keyword3",
+    "term": "urban redevelopment",
+    "title": "Mapping city outskirts through the mix of cultural, commercial, social and environmental variables",
+    "country": "Italy"
+  },
+  {
+    "id": 13,
+    "keyword": "keyword1",
+    "term": "Solari board",
+    "title": "Mechanical inspiration for digital design: lessons from the split-flap board",
+    "country": "USA"
+  },
+  {
+    "id": 13,
+    "keyword": "keyword2",
+    "term": "animated transitions",
+    "title": "Mechanical inspiration for digital design: lessons from the split-flap board",
+    "country": "USA"
+  },
+  {
+    "id": 13,
+    "keyword": "keyword3",
+    "term": "Visual displays",
+    "title": "Mechanical inspiration for digital design: lessons from the split-flap board",
+    "country": "USA"
+  },
+  {
+    "id": 13,
+    "keyword": "keyword4",
+    "term": "digital design",
+    "title": "Mechanical inspiration for digital design: lessons from the split-flap board",
+    "country": "USA"
+  },
+  {
+    "id": 13,
+    "keyword": "keyword5",
+    "term": "User experience",
+    "title": "Mechanical inspiration for digital design: lessons from the split-flap board",
+    "country": "USA"
+  },
+  {
+    "id": 14,
+    "keyword": "keyword1",
+    "term": "Parklets",
+    "title": "Engaging through visualization: showing the potential for activities in public spaces.",
+    "country": "Austria"
+  },
+  {
+    "id": 14,
+    "keyword": "keyword2",
+    "term": "City making",
+    "title": "Engaging through visualization: showing the potential for activities in public spaces.",
+    "country": "Austria"
+  },
+  {
+    "id": 14,
+    "keyword": "keyword3",
+    "term": "Urban informatics",
+    "title": "Engaging through visualization: showing the potential for activities in public spaces.",
+    "country": "Austria"
+  },
+  {
+    "id": 15,
+    "keyword": "keyword1",
+    "term": "Globalization",
+    "title": "Most comprehensive map of the Belt and Road Initiative",
+    "country": "Germany"
+  },
+  {
+    "id": 15,
+    "keyword": "keyword2",
+    "term": "Belt and Road Initiative",
+    "title": "Most comprehensive map of the Belt and Road Initiative",
+    "country": "Germany"
+  },
+  {
+    "id": 15,
+    "keyword": "keyword3",
+    "term": "Cartography",
+    "title": "Most comprehensive map of the Belt and Road Initiative",
+    "country": "Germany"
+  },
+  {
+    "id": 16,
+    "keyword": "keyword1",
+    "term": "Symbol dictionary",
+    "title": "The stories that archives tell: the quest to produce a symbol dictionary",
+    "country": "UK"
+  },
+  {
+    "id": 16,
+    "keyword": "keyword2",
+    "term": "Isotype",
+    "title": "The stories that archives tell: the quest to produce a symbol dictionary",
+    "country": "UK"
+  },
+  {
+    "id": 16,
+    "keyword": "keyword3",
+    "term": "Henry Dreyfuss",
+    "title": "The stories that archives tell: the quest to produce a symbol dictionary",
+    "country": "UK"
+  },
+  {
+    "id": 17,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Categorizing and Ranking Graphs in the American Economic Review Over the Last Century",
+    "country": "USA"
+  },
+  {
+    "id": 17,
+    "keyword": "keyword2",
+    "term": "economics",
+    "title": "Categorizing and Ranking Graphs in the American Economic Review Over the Last Century",
+    "country": "USA"
+  },
+  {
+    "id": 17,
+    "keyword": "keyword3",
+    "term": "data communication",
+    "title": "Categorizing and Ranking Graphs in the American Economic Review Over the Last Century",
+    "country": "USA"
+  },
+  {
+    "id": 18,
+    "keyword": "keyword1",
+    "term": "biodiversity",
+    "title": "Data Animism: Approaches to visualising biodiversity",
+    "country": "Australia"
+  },
+  {
+    "id": 18,
+    "keyword": "keyword2",
+    "term": "complexity",
+    "title": "Data Animism: Approaches to visualising biodiversity",
+    "country": "Australia"
+  },
+  {
+    "id": 18,
+    "keyword": "keyword3",
+    "term": "environment",
+    "title": "Data Animism: Approaches to visualising biodiversity",
+    "country": "Australia"
+  },
+  {
+    "id": 19,
+    "keyword": "keyword1",
+    "term": "machine Learning",
+    "title": "Looking for places with illegal amber mining on satellite images, with a help of machine learning model",
+    "country": "Ukraine"
+  },
+  {
+    "id": 19,
+    "keyword": "keyword2",
+    "term": "satellite images",
+    "title": "Looking for places with illegal amber mining on satellite images, with a help of machine learning model",
+    "country": "Ukraine"
+  },
+  {
+    "id": 19,
+    "keyword": "keyword3",
+    "term": "interactive map",
+    "title": "Looking for places with illegal amber mining on satellite images, with a help of machine learning model",
+    "country": "Ukraine"
+  },
+  {
+    "id": 19,
+    "keyword": "keyword4",
+    "term": "environment",
+    "title": "Looking for places with illegal amber mining on satellite images, with a help of machine learning model",
+    "country": "Ukraine"
+  },
+  {
+    "id": 20,
+    "keyword": "keyword1",
+    "term": "Visualizing the Everyday",
+    "title": "The Phaistos Project — Forty-five Symbols. Visualizing Unseen Narratives of the Everyday: Forensic Analyses of the Overseen and its Traces.",
+    "country": "USA, Germany"
+  },
+  {
+    "id": 20,
+    "keyword": "keyword2",
+    "term": "Experimental Media Archeology",
+    "title": "The Phaistos Project — Forty-five Symbols. Visualizing Unseen Narratives of the Everyday: Forensic Analyses of the Overseen and its Traces.",
+    "country": "USA, Germany"
+  },
+  {
+    "id": 20,
+    "keyword": "keyword3",
+    "term": "International Collaboration",
+    "title": "The Phaistos Project — Forty-five Symbols. Visualizing Unseen Narratives of the Everyday: Forensic Analyses of the Overseen and its Traces.",
+    "country": "USA, Germany"
+  },
+  {
+    "id": 20,
+    "keyword": "keyword4",
+    "term": "Ethnography",
+    "title": "The Phaistos Project — Forty-five Symbols. Visualizing Unseen Narratives of the Everyday: Forensic Analyses of the Overseen and its Traces.",
+    "country": "USA, Germany"
+  },
+  {
+    "id": 20,
+    "keyword": "keyword5",
+    "term": "Socio-political Discourse",
+    "title": "The Phaistos Project — Forty-five Symbols. Visualizing Unseen Narratives of the Everyday: Forensic Analyses of the Overseen and its Traces.",
+    "country": "USA, Germany"
+  },
+  {
+    "id": 21,
+    "keyword": "keyword1",
+    "term": "CHaSSMM Model of Analysis",
+    "title": "Designing (emotionally) difficult information: An exploration of the interpretive role of the designer",
+    "country": "Australia"
+  },
+  {
+    "id": 21,
+    "keyword": "keyword2",
+    "term": "interpretation",
+    "title": "Designing (emotionally) difficult information: An exploration of the interpretive role of the designer",
+    "country": "Australia"
+  },
+  {
+    "id": 21,
+    "keyword": "keyword3",
+    "term": "semiotics",
+    "title": "Designing (emotionally) difficult information: An exploration of the interpretive role of the designer",
+    "country": "Australia"
+  },
+  {
+    "id": 22,
+    "keyword": "keyword1",
+    "term": "clinical specialization",
+    "title": "Specialization in Clinical Practice",
+    "country": "Germany"
+  },
+  {
+    "id": 22,
+    "keyword": "keyword2",
+    "term": "departmentalization",
+    "title": "Specialization in Clinical Practice",
+    "country": "Germany"
+  },
+  {
+    "id": 22,
+    "keyword": "keyword3",
+    "term": "hospital architecture",
+    "title": "Specialization in Clinical Practice",
+    "country": "Germany"
+  },
+  {
+    "id": 23,
+    "keyword": "keyword1",
+    "term": "data journalism",
+    "title": "Tell it differently - How we used personalized storytelling to report on commuting in Germany",
+    "country": "Germany"
+  },
+  {
+    "id": 23,
+    "keyword": "keyword2",
+    "term": "personalization",
+    "title": "Tell it differently - How we used personalized storytelling to report on commuting in Germany",
+    "country": "Germany"
+  },
+  {
+    "id": 23,
+    "keyword": "keyword3",
+    "term": "maps",
+    "title": "Tell it differently - How we used personalized storytelling to report on commuting in Germany",
+    "country": "Germany"
+  },
+  {
+    "id": 23,
+    "keyword": "keyword4",
+    "term": "commuting",
+    "title": "Tell it differently - How we used personalized storytelling to report on commuting in Germany",
+    "country": "Germany"
+  },
+  {
+    "id": 24,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Show. Tell. Explain. Explore – Current Trends in Data Visualization",
+    "country": "Switzerland,Germany,Norway"
+  },
+  {
+    "id": 24,
+    "keyword": "keyword2",
+    "term": "data journalism",
+    "title": "Show. Tell. Explain. Explore – Current Trends in Data Visualization",
+    "country": "Switzerland,Germany,Norway"
+  },
+  {
+    "id": 24,
+    "keyword": "keyword3",
+    "term": "visualization types",
+    "title": "Show. Tell. Explain. Explore – Current Trends in Data Visualization",
+    "country": "Switzerland,Germany,Norway"
+  },
+  {
+    "id": 25,
+    "keyword": "keyword1",
+    "term": "Data loves zines",
+    "title": "Data loves zines",
+    "country": "UK"
+  },
+  {
+    "id": 25,
+    "keyword": "keyword2",
+    "term": "Empowering the dataviz community",
+    "title": "Data loves zines",
+    "country": "UK"
+  },
+  {
+    "id": 25,
+    "keyword": "keyword3",
+    "term": "data visualization",
+    "title": "Data loves zines",
+    "country": "UK"
+  },
+  {
+    "id": 26,
+    "keyword": "keyword1",
+    "term": "information visualization",
+    "title": "On Visualization in situ: Ecologizing the Information Visualization Reference Model",
+    "country": "Austria"
+  },
+  {
+    "id": 26,
+    "keyword": "keyword2",
+    "term": "reference model",
+    "title": "On Visualization in situ: Ecologizing the Information Visualization Reference Model",
+    "country": "Austria"
+  },
+  {
+    "id": 26,
+    "keyword": "keyword3",
+    "term": "information integration",
+    "title": "On Visualization in situ: Ecologizing the Information Visualization Reference Model",
+    "country": "Austria"
+  },
+  {
+    "id": 26,
+    "keyword": "keyword4",
+    "term": "visualization ecosystem",
+    "title": "On Visualization in situ: Ecologizing the Information Visualization Reference Model",
+    "country": "Austria"
+  },
+  {
+    "id": 27,
+    "keyword": "keyword1",
+    "term": "Internet",
+    "title": "Attentional interfaces",
+    "country": "USA"
+  },
+  {
+    "id": 27,
+    "keyword": "keyword2",
+    "term": "interface",
+    "title": "Attentional interfaces",
+    "country": "USA"
+  },
+  {
+    "id": 27,
+    "keyword": "keyword3",
+    "term": "user",
+    "title": "Attentional interfaces",
+    "country": "USA"
+  },
+  {
+    "id": 27,
+    "keyword": "keyword4",
+    "term": "attention",
+    "title": "Attentional interfaces",
+    "country": "USA"
+  },
+  {
+    "id": 27,
+    "keyword": "keyword5",
+    "term": "interaction",
+    "title": "Attentional interfaces",
+    "country": "USA"
+  },
+  {
+    "id": 28,
+    "keyword": "keyword1",
+    "term": "animation",
+    "title": "Visualizing information about medicines: could it really enable patients?",
+    "country": "Belgium"
+  },
+  {
+    "id": 28,
+    "keyword": "keyword2",
+    "term": "therapy",
+    "title": "Visualizing information about medicines: could it really enable patients?",
+    "country": "Belgium"
+  },
+  {
+    "id": 28,
+    "keyword": "keyword3",
+    "term": "clinical trials",
+    "title": "Visualizing information about medicines: could it really enable patients?",
+    "country": "Belgium"
+  },
+  {
+    "id": 28,
+    "keyword": "keyword4",
+    "term": "medicine instructions",
+    "title": "Visualizing information about medicines: could it really enable patients?",
+    "country": "Belgium"
+  },
+  {
+    "id": 29,
+    "keyword": "keyword1",
+    "term": "open data",
+    "title": "Fashioning open data, Shaping public opinion",
+    "country": "France"
+  },
+  {
+    "id": 29,
+    "keyword": "keyword2",
+    "term": "Public Opinion",
+    "title": "Fashioning open data, Shaping public opinion",
+    "country": "France"
+  },
+  {
+    "id": 29,
+    "keyword": "keyword3",
+    "term": "Data Design",
+    "title": "Fashioning open data, Shaping public opinion",
+    "country": "France"
+  },
+  {
+    "id": 30,
+    "keyword": "keyword1",
+    "term": "design",
+    "title": "Designing an optimal document in the health sector",
+    "country": "Canada"
+  },
+  {
+    "id": 30,
+    "keyword": "keyword2",
+    "term": "healthcare",
+    "title": "Designing an optimal document in the health sector",
+    "country": "Canada"
+  },
+  {
+    "id": 30,
+    "keyword": "keyword3",
+    "term": "performance",
+    "title": "Designing an optimal document in the health sector",
+    "country": "Canada"
+  },
+  {
+    "id": 31,
+    "keyword": "keyword1",
+    "term": "3D Data Visualization",
+    "title": "Data Visualization in Virtual Reality",
+    "country": "Finland"
+  },
+  {
+    "id": 31,
+    "keyword": "keyword2",
+    "term": "VR Visualization",
+    "title": "Data Visualization in Virtual Reality",
+    "country": "Finland"
+  },
+  {
+    "id": 31,
+    "keyword": "keyword3",
+    "term": "WebVR",
+    "title": "Data Visualization in Virtual Reality",
+    "country": "Finland"
+  },
+  {
+    "id": 32,
+    "keyword": "keyword1",
+    "term": "feminism",
+    "title": "Another View on Feminist Data Visualization",
+    "country": "USA"
+  },
+  {
+    "id": 32,
+    "keyword": "keyword2",
+    "term": "protest",
+    "title": "Another View on Feminist Data Visualization",
+    "country": "USA"
+  },
+  {
+    "id": 32,
+    "keyword": "keyword3",
+    "term": "robot",
+    "title": "Another View on Feminist Data Visualization",
+    "country": "USA"
+  },
+  {
+    "id": 33,
+    "keyword": "keyword1",
+    "term": "Metaphor",
+    "title": "Applying metaphor to information visualization for data journalism",
+    "country": "Canada"
+  },
+  {
+    "id": 33,
+    "keyword": "keyword2",
+    "term": "Mimesis",
+    "title": "Applying metaphor to information visualization for data journalism",
+    "country": "Canada"
+  },
+  {
+    "id": 33,
+    "keyword": "keyword3",
+    "term": "data journalism",
+    "title": "Applying metaphor to information visualization for data journalism",
+    "country": "Canada"
+  },
+  {
+    "id": 34,
+    "keyword": "keyword1",
+    "term": "Universal Pictogram Design",
+    "title": "Universal Pictogram Design based on Cognitive Characteristics of people with intellectual disabilities",
+    "country": "Japan"
+  },
+  {
+    "id": 34,
+    "keyword": "keyword2",
+    "term": "Intellectual disability",
+    "title": "Universal Pictogram Design based on Cognitive Characteristics of people with intellectual disabilities",
+    "country": "Japan"
+  },
+  {
+    "id": 34,
+    "keyword": "keyword3",
+    "term": "Cognitive",
+    "title": "Universal Pictogram Design based on Cognitive Characteristics of people with intellectual disabilities",
+    "country": "Japan"
+  },
+  {
+    "id": 35,
+    "keyword": "keyword1",
+    "term": "Visualization Tools",
+    "title": "Beyond Data Exploration: Designing Visualization Tools for Communication and Storytelling",
+    "country": "USA"
+  },
+  {
+    "id": 35,
+    "keyword": "keyword2",
+    "term": "Communication",
+    "title": "Beyond Data Exploration: Designing Visualization Tools for Communication and Storytelling",
+    "country": "USA"
+  },
+  {
+    "id": 35,
+    "keyword": "keyword3",
+    "term": "storytelling",
+    "title": "Beyond Data Exploration: Designing Visualization Tools for Communication and Storytelling",
+    "country": "USA"
+  },
+  {
+    "id": 36,
+    "keyword": "keyword1",
+    "term": "quantified self",
+    "title": "A Case for Slow Measures and Imprecise Visualizations",
+    "country": "USA"
+  },
+  {
+    "id": 36,
+    "keyword": "keyword2",
+    "term": "Manual Process",
+    "title": "A Case for Slow Measures and Imprecise Visualizations",
+    "country": "USA"
+  },
+  {
+    "id": 36,
+    "keyword": "keyword3",
+    "term": "visualization",
+    "title": "A Case for Slow Measures and Imprecise Visualizations",
+    "country": "USA"
+  },
+  {
+    "id": 37,
+    "keyword": "keyword1",
+    "term": "uncertainty",
+    "title": "How people read uncertainty in polling results",
+    "country": "Austria"
+  },
+  {
+    "id": 37,
+    "keyword": "keyword2",
+    "term": "polls",
+    "title": "How people read uncertainty in polling results",
+    "country": "Austria"
+  },
+  {
+    "id": 37,
+    "keyword": "keyword3",
+    "term": "visualization",
+    "title": "How people read uncertainty in polling results",
+    "country": "Austria"
+  },
+  {
+    "id": 38,
+    "keyword": "keyword1",
+    "term": "Principles",
+    "title": "Lost in Design Space? Critical Visualisation, Disciplinary Myopias and the Visualisation Spectrum",
+    "country": "UK"
+  },
+  {
+    "id": 38,
+    "keyword": "keyword2",
+    "term": "Methods",
+    "title": "Lost in Design Space? Critical Visualisation, Disciplinary Myopias and the Visualisation Spectrum",
+    "country": "UK"
+  },
+  {
+    "id": 38,
+    "keyword": "keyword3",
+    "term": "Interdisciplinarity",
+    "title": "Lost in Design Space? Critical Visualisation, Disciplinary Myopias and the Visualisation Spectrum",
+    "country": "UK"
+  },
+  {
+    "id": 39,
+    "keyword": "keyword1",
+    "term": "Emoji",
+    "title": "OpenMoji – Open source emojis for everyone",
+    "country": "Germany"
+  },
+  {
+    "id": 39,
+    "keyword": "keyword2",
+    "term": "open source",
+    "title": "OpenMoji – Open source emojis for everyone",
+    "country": "Germany"
+  },
+  {
+    "id": 39,
+    "keyword": "keyword3",
+    "term": "Icon System",
+    "title": "OpenMoji – Open source emojis for everyone",
+    "country": "Germany"
+  },
+  {
+    "id": 40,
+    "keyword": "keyword1",
+    "term": "non-expert",
+    "title": "Today, at work, I had to visualise some data :(",
+    "country": "UK"
+  },
+  {
+    "id": 40,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "Today, at work, I had to visualise some data :(",
+    "country": "UK"
+  },
+  {
+    "id": 40,
+    "keyword": "keyword3",
+    "term": "know-how",
+    "title": "Today, at work, I had to visualise some data :(",
+    "country": "UK"
+  },
+  {
+    "id": 41,
+    "keyword": "keyword1",
+    "term": "uncertainty",
+    "title": "The visual discourse of predictive sciences: expressing uncertainty through data",
+    "country": "Italy"
+  },
+  {
+    "id": 41,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "The visual discourse of predictive sciences: expressing uncertainty through data",
+    "country": "Italy"
+  },
+  {
+    "id": 41,
+    "keyword": "keyword3",
+    "term": "Predictive sciences",
+    "title": "The visual discourse of predictive sciences: expressing uncertainty through data",
+    "country": "Italy"
+  },
+  {
+    "id": 41,
+    "keyword": "keyword4",
+    "term": "semiotics",
+    "title": "The visual discourse of predictive sciences: expressing uncertainty through data",
+    "country": "Italy"
+  },
+  {
+    "id": 42,
+    "keyword": "keyword1",
+    "term": "urban mobility",
+    "title": "The Mobility Space Report: What the Street!?",
+    "country": "Hungary, Germany"
+  },
+  {
+    "id": 42,
+    "keyword": "keyword2",
+    "term": "space usage",
+    "title": "The Mobility Space Report: What the Street!?",
+    "country": "Hungary, Germany"
+  },
+  {
+    "id": 42,
+    "keyword": "keyword3",
+    "term": "future cities",
+    "title": "The Mobility Space Report: What the Street!?",
+    "country": "Hungary, Germany"
+  },
+  {
+    "id": 43,
+    "keyword": "keyword1",
+    "term": "indexical visualisation",
+    "title": "Visualization Before Data –The Design of Visual Meaning Through Tracing, Tracking, and Marking",
+    "country": "USA"
+  },
+  {
+    "id": 43,
+    "keyword": "keyword2",
+    "term": "physical information",
+    "title": "Visualization Before Data –The Design of Visual Meaning Through Tracing, Tracking, and Marking",
+    "country": "USA"
+  },
+  {
+    "id": 43,
+    "keyword": "keyword3",
+    "term": "causality",
+    "title": "Visualization Before Data –The Design of Visual Meaning Through Tracing, Tracking, and Marking",
+    "country": "USA"
+  },
+  {
+    "id": 43,
+    "keyword": "keyword4",
+    "term": "forensic methods",
+    "title": "Visualization Before Data –The Design of Visual Meaning Through Tracing, Tracking, and Marking",
+    "country": "USA"
+  },
+  {
+    "id": 44,
+    "keyword": "keyword1",
+    "term": "visual archives",
+    "title": "Art of the March - a visual archive of public protest",
+    "country": "USA, Canada"
+  },
+  {
+    "id": 44,
+    "keyword": "keyword2",
+    "term": "visual rhetorics",
+    "title": "Art of the March - a visual archive of public protest",
+    "country": "USA, Canada"
+  },
+  {
+    "id": 44,
+    "keyword": "keyword3",
+    "term": "protest signs",
+    "title": "Art of the March - a visual archive of public protest",
+    "country": "USA, Canada"
+  },
+  {
+    "id": 44,
+    "keyword": "keyword4",
+    "term": "politics of representation",
+    "title": "Art of the March - a visual archive of public protest",
+    "country": "USA, Canada"
+  },
+  {
+    "id": 45,
+    "keyword": "keyword1",
+    "term": "R programming language",
+    "title": "Animated Maps with R: Visualizing the Hamburg Marathon",
+    "country": "Germany"
+  },
+  {
+    "id": 45,
+    "keyword": "keyword2",
+    "term": "animation",
+    "title": "Animated Maps with R: Visualizing the Hamburg Marathon",
+    "country": "Germany"
+  },
+  {
+    "id": 45,
+    "keyword": "keyword3",
+    "term": "visualization",
+    "title": "Animated Maps with R: Visualizing the Hamburg Marathon",
+    "country": "Germany"
+  },
+  {
+    "id": 45,
+    "keyword": "keyword4",
+    "term": "maps",
+    "title": "Animated Maps with R: Visualizing the Hamburg Marathon",
+    "country": "Germany"
+  },
+  {
+    "id": 45,
+    "keyword": "keyword5",
+    "term": "Spatial Analysis",
+    "title": "Animated Maps with R: Visualizing the Hamburg Marathon",
+    "country": "Germany"
+  },
+  {
+    "id": 46,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Flights to Rome",
+    "country": "Germany, Austria"
+  },
+  {
+    "id": 46,
+    "keyword": "keyword2",
+    "term": "Mobility",
+    "title": "Flights to Rome",
+    "country": "Germany, Austria"
+  },
+  {
+    "id": 46,
+    "keyword": "keyword3",
+    "term": "Roads",
+    "title": "Flights to Rome",
+    "country": "Germany, Austria"
+  },
+  {
+    "id": 46,
+    "keyword": "keyword4",
+    "term": "Flights",
+    "title": "Flights to Rome",
+    "country": "Germany, Austria"
+  },
+  {
+    "id": 46,
+    "keyword": "keyword5",
+    "term": "aesthetics in Visualization",
+    "title": "Flights to Rome",
+    "country": "Germany, Austria"
+  },
+  {
+    "id": 46,
+    "keyword": "keyword6",
+    "term": "Geographic/Geospatial Visualization",
+    "title": "Flights to Rome",
+    "country": "Germany, Austria"
+  },
+  {
+    "id": 47,
+    "keyword": "keyword1",
+    "term": "drug-resistant infection",
+    "title": "Drug-resistant infection: getting the message across in community pharmacies",
+    "country": "UK"
+  },
+  {
+    "id": 47,
+    "keyword": "keyword2",
+    "term": "Isotype",
+    "title": "Drug-resistant infection: getting the message across in community pharmacies",
+    "country": "UK"
+  },
+  {
+    "id": 47,
+    "keyword": "keyword3",
+    "term": "community",
+    "title": "Drug-resistant infection: getting the message across in community pharmacies",
+    "country": "UK"
+  },
+  {
+    "id": 48,
+    "keyword": "keyword1",
+    "term": "wayfinding",
+    "title": "Public Pictograms: Pointing out Trends for the Future",
+    "country": "Germany"
+  },
+  {
+    "id": 48,
+    "keyword": "keyword2",
+    "term": "Signage",
+    "title": "Public Pictograms: Pointing out Trends for the Future",
+    "country": "Germany"
+  },
+  {
+    "id": 48,
+    "keyword": "keyword3",
+    "term": "Perception",
+    "title": "Public Pictograms: Pointing out Trends for the Future",
+    "country": "Germany"
+  },
+  {
+    "id": 48,
+    "keyword": "keyword4",
+    "term": "Space",
+    "title": "Public Pictograms: Pointing out Trends for the Future",
+    "country": "Germany"
+  },
+  {
+    "id": 48,
+    "keyword": "keyword5",
+    "term": "Public Information",
+    "title": "Public Pictograms: Pointing out Trends for the Future",
+    "country": "Germany"
+  },
+  {
+    "id": 48,
+    "keyword": "keyword6",
+    "term": "Pictograms",
+    "title": "Public Pictograms: Pointing out Trends for the Future",
+    "country": "Germany"
+  },
+  {
+    "id": 49,
+    "keyword": "keyword1",
+    "term": "Pattern Exploration",
+    "title": "Visually Exploring the Genome At Scale",
+    "country": "USA, UK"
+  },
+  {
+    "id": 49,
+    "keyword": "keyword2",
+    "term": "Multiscale Visualization",
+    "title": "Visually Exploring the Genome At Scale",
+    "country": "USA, UK"
+  },
+  {
+    "id": 49,
+    "keyword": "keyword3",
+    "term": "small multiples",
+    "title": "Visually Exploring the Genome At Scale",
+    "country": "USA, UK"
+  },
+  {
+    "id": 49,
+    "keyword": "keyword4",
+    "term": "Insets",
+    "title": "Visually Exploring the Genome At Scale",
+    "country": "USA, UK"
+  },
+  {
+    "id": 49,
+    "keyword": "keyword5",
+    "term": "Genomics",
+    "title": "Visually Exploring the Genome At Scale",
+    "country": "USA, UK"
+  },
+  {
+    "id": 49,
+    "keyword": "keyword6",
+    "term": "Biology",
+    "title": "Visually Exploring the Genome At Scale",
+    "country": "USA, UK"
+  },
+  {
+    "id": 50,
+    "keyword": "keyword1",
+    "term": "autonomous mobility",
+    "title": "Who Wants to be a Self-Driving Car? - a Data Driven Trust Exercise",
+    "country": "Germany, USA"
+  },
+  {
+    "id": 50,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "Who Wants to be a Self-Driving Car? - a Data Driven Trust Exercise",
+    "country": "Germany, USA"
+  },
+  {
+    "id": 50,
+    "keyword": "keyword3",
+    "term": "immersive data",
+    "title": "Who Wants to be a Self-Driving Car? - a Data Driven Trust Exercise",
+    "country": "Germany, USA"
+  },
+  {
+    "id": 50,
+    "keyword": "keyword4",
+    "term": "virtual reality",
+    "title": "Who Wants to be a Self-Driving Car? - a Data Driven Trust Exercise",
+    "country": "Germany, USA"
+  },
+  {
+    "id": 51,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "#nofilter: visualizing authenticity and editing perception detection with a multimethod approach",
+    "country": "Italy"
+  },
+  {
+    "id": 51,
+    "keyword": "keyword2",
+    "term": "cultural analytics",
+    "title": "#nofilter: visualizing authenticity and editing perception detection with a multimethod approach",
+    "country": "Italy"
+  },
+  {
+    "id": 51,
+    "keyword": "keyword3",
+    "term": "content analysis",
+    "title": "#nofilter: visualizing authenticity and editing perception detection with a multimethod approach",
+    "country": "Italy"
+  },
+  {
+    "id": 51,
+    "keyword": "keyword4",
+    "term": "medial images",
+    "title": "#nofilter: visualizing authenticity and editing perception detection with a multimethod approach",
+    "country": "Italy"
+  },
+  {
+    "id": 51,
+    "keyword": "keyword5",
+    "term": "authenticity",
+    "title": "#nofilter: visualizing authenticity and editing perception detection with a multimethod approach",
+    "country": "Italy"
+  },
+  {
+    "id": 51,
+    "keyword": "keyword6",
+    "term": "Instagram",
+    "title": "#nofilter: visualizing authenticity and editing perception detection with a multimethod approach",
+    "country": "Italy"
+  },
+  {
+    "id": 52,
+    "keyword": "keyword1",
+    "term": "health information",
+    "title": "The Opioid Crisis and Take Home Naloxone Kits (THNK) / The Design of Procedural Instructions in an Emergency",
+    "country": "Canada"
+  },
+  {
+    "id": 52,
+    "keyword": "keyword2",
+    "term": "procedural instructions",
+    "title": "The Opioid Crisis and Take Home Naloxone Kits (THNK) / The Design of Procedural Instructions in an Emergency",
+    "country": "Canada"
+  },
+  {
+    "id": 52,
+    "keyword": "keyword3",
+    "term": "design methods",
+    "title": "The Opioid Crisis and Take Home Naloxone Kits (THNK) / The Design of Procedural Instructions in an Emergency",
+    "country": "Canada"
+  },
+  {
+    "id": 52,
+    "keyword": "keyword4",
+    "term": "students",
+    "title": "The Opioid Crisis and Take Home Naloxone Kits (THNK) / The Design of Procedural Instructions in an Emergency",
+    "country": "Canada"
+  },
+  {
+    "id": 53,
+    "keyword": "keyword1",
+    "term": "Energy Transition",
+    "title": "Making the Infographic Energy Transition Coloring Book",
+    "country": "Germany"
+  },
+  {
+    "id": 53,
+    "keyword": "keyword2",
+    "term": "Energiewende",
+    "title": "Making the Infographic Energy Transition Coloring Book",
+    "country": "Germany"
+  },
+  {
+    "id": 53,
+    "keyword": "keyword3",
+    "term": "Infographics",
+    "title": "Making the Infographic Energy Transition Coloring Book",
+    "country": "Germany"
+  },
+  {
+    "id": 53,
+    "keyword": "keyword4",
+    "term": "popular education",
+    "title": "Making the Infographic Energy Transition Coloring Book",
+    "country": "Germany"
+  },
+  {
+    "id": 53,
+    "keyword": "keyword5",
+    "term": "Policy",
+    "title": "Making the Infographic Energy Transition Coloring Book",
+    "country": "Germany"
+  },
+  {
+    "id": 53,
+    "keyword": "keyword6",
+    "term": "Civic Education",
+    "title": "Making the Infographic Energy Transition Coloring Book",
+    "country": "Germany"
+  },
+  {
+    "id": 54,
+    "keyword": "keyword1",
+    "term": "design pedagogy",
+    "title": "Visualizing Patterns: Aiding Understanding, Inciting Interaction, and Promoting Critical Thinking",
+    "country": "USA"
+  },
+  {
+    "id": 54,
+    "keyword": "keyword2",
+    "term": "visual patterns",
+    "title": "Visualizing Patterns: Aiding Understanding, Inciting Interaction, and Promoting Critical Thinking",
+    "country": "USA"
+  },
+  {
+    "id": 54,
+    "keyword": "keyword3",
+    "term": "interaction",
+    "title": "Visualizing Patterns: Aiding Understanding, Inciting Interaction, and Promoting Critical Thinking",
+    "country": "USA"
+  },
+  {
+    "id": 54,
+    "keyword": "keyword4",
+    "term": "critical thinking",
+    "title": "Visualizing Patterns: Aiding Understanding, Inciting Interaction, and Promoting Critical Thinking",
+    "country": "USA"
+  },
+  {
+    "id": 54,
+    "keyword": "keyword5",
+    "term": "activism",
+    "title": "Visualizing Patterns: Aiding Understanding, Inciting Interaction, and Promoting Critical Thinking",
+    "country": "USA"
+  },
+  {
+    "id": 55,
+    "keyword": "keyword1",
+    "term": "Data Visualization for the identification of abusive systems",
+    "title": "Wall of Silence – Identifying an Abusive System through Data and Design",
+    "country": "Finland"
+  },
+  {
+    "id": 55,
+    "keyword": "keyword2",
+    "term": "Social Influences and enablement",
+    "title": "Wall of Silence – Identifying an Abusive System through Data and Design",
+    "country": "Finland"
+  },
+  {
+    "id": 55,
+    "keyword": "keyword3",
+    "term": "Systemic Conditions in sexual abuse cases",
+    "title": "Wall of Silence – Identifying an Abusive System through Data and Design",
+    "country": "Finland"
+  },
+  {
+    "id": 55,
+    "keyword": "keyword4",
+    "term": "USA Gymnastics sex abuse scandal",
+    "title": "Wall of Silence – Identifying an Abusive System through Data and Design",
+    "country": "Finland"
+  },
+  {
+    "id": 56,
+    "keyword": "keyword1",
+    "term": "similarity",
+    "title": "anci – analysing networked climate images",
+    "country": "Germany"
+  },
+  {
+    "id": 56,
+    "keyword": "keyword2",
+    "term": "digital image comparison",
+    "title": "anci – analysing networked climate images",
+    "country": "Germany"
+  },
+  {
+    "id": 56,
+    "keyword": "keyword3",
+    "term": "mixed methods research",
+    "title": "anci – analysing networked climate images",
+    "country": "Germany"
+  },
+  {
+    "id": 57,
+    "keyword": "keyword1",
+    "term": "Mobility Data Analysis",
+    "title": "Visualization as an interdependent work in process",
+    "country": "Switzerland"
+  },
+  {
+    "id": 57,
+    "keyword": "keyword2",
+    "term": "Geo Visualization",
+    "title": "Visualization as an interdependent work in process",
+    "country": "Switzerland"
+  },
+  {
+    "id": 57,
+    "keyword": "keyword3",
+    "term": "machine Learning",
+    "title": "Visualization as an interdependent work in process",
+    "country": "Switzerland"
+  },
+  {
+    "id": 58,
+    "keyword": "keyword1",
+    "term": "Qualitative research",
+    "title": "Qualitative Data Visualization: The Entity Mapper",
+    "country": "USA"
+  },
+  {
+    "id": 58,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "Qualitative Data Visualization: The Entity Mapper",
+    "country": "USA"
+  },
+  {
+    "id": 58,
+    "keyword": "keyword3",
+    "term": "qualitative inquiry",
+    "title": "Qualitative Data Visualization: The Entity Mapper",
+    "country": "USA"
+  },
+  {
+    "id": 58,
+    "keyword": "keyword4",
+    "term": "open-source software",
+    "title": "Qualitative Data Visualization: The Entity Mapper",
+    "country": "USA"
+  },
+  {
+    "id": 58,
+    "keyword": "keyword5",
+    "term": "D3",
+    "title": "Qualitative Data Visualization: The Entity Mapper",
+    "country": "USA"
+  },
+  {
+    "id": 59,
+    "keyword": "keyword1",
+    "term": "visual literacy",
+    "title": "A History of ‘Visual Literacy’ Campaigns",
+    "country": "USA"
+  },
+  {
+    "id": 59,
+    "keyword": "keyword2",
+    "term": "popular education",
+    "title": "A History of ‘Visual Literacy’ Campaigns",
+    "country": "USA"
+  },
+  {
+    "id": 59,
+    "keyword": "keyword3",
+    "term": "design",
+    "title": "A History of ‘Visual Literacy’ Campaigns",
+    "country": "USA"
+  },
+  {
+    "id": 59,
+    "keyword": "keyword4",
+    "term": "information literacy",
+    "title": "A History of ‘Visual Literacy’ Campaigns",
+    "country": "USA"
+  },
+  {
+    "id": 59,
+    "keyword": "keyword5",
+    "term": "media literacy",
+    "title": "A History of ‘Visual Literacy’ Campaigns",
+    "country": "USA"
+  },
+  {
+    "id": 59,
+    "keyword": "keyword6",
+    "term": "decoding media",
+    "title": "A History of ‘Visual Literacy’ Campaigns",
+    "country": "USA"
+  },
+  {
+    "id": 60,
+    "keyword": "keyword1",
+    "term": "visual representation",
+    "title": "Belief at first sight: Data visualization and the rationalization of seeing",
+    "country": "Canada, Denmark, Brazil"
+  },
+  {
+    "id": 60,
+    "keyword": "keyword2",
+    "term": "historical context",
+    "title": "Belief at first sight: Data visualization and the rationalization of seeing",
+    "country": "Canada, Denmark, Brazil"
+  },
+  {
+    "id": 60,
+    "keyword": "keyword3",
+    "term": "rationality",
+    "title": "Belief at first sight: Data visualization and the rationalization of seeing",
+    "country": "Canada, Denmark, Brazil"
+  },
+  {
+    "id": 60,
+    "keyword": "keyword4",
+    "term": "data visualization",
+    "title": "Belief at first sight: Data visualization and the rationalization of seeing",
+    "country": "Canada, Denmark, Brazil"
+  },
+  {
+    "id": 61,
+    "keyword": "keyword1",
+    "term": "data journalism",
+    "title": "News Explorer: customizable cognitive search and content analytics engine for journalists",
+    "country": "USA"
+  },
+  {
+    "id": 61,
+    "keyword": "keyword2",
+    "term": "network visualization",
+    "title": "News Explorer: customizable cognitive search and content analytics engine for journalists",
+    "country": "USA"
+  },
+  {
+    "id": 61,
+    "keyword": "keyword3",
+    "term": "glanceable discovery",
+    "title": "News Explorer: customizable cognitive search and content analytics engine for journalists",
+    "country": "USA"
+  },
+  {
+    "id": 62,
+    "keyword": "keyword1",
+    "term": "interactive Visualization",
+    "title": "Visualizing Philosophy: A Modern Design Approach to Understand I-Ching",
+    "country": "USA"
+  },
+  {
+    "id": 62,
+    "keyword": "keyword2",
+    "term": "Visualizing Text",
+    "title": "Visualizing Philosophy: A Modern Design Approach to Understand I-Ching",
+    "country": "USA"
+  },
+  {
+    "id": 62,
+    "keyword": "keyword3",
+    "term": "Text Mining",
+    "title": "Visualizing Philosophy: A Modern Design Approach to Understand I-Ching",
+    "country": "USA"
+  },
+  {
+    "id": 62,
+    "keyword": "keyword4",
+    "term": "Visualizing I-Ching",
+    "title": "Visualizing Philosophy: A Modern Design Approach to Understand I-Ching",
+    "country": "USA"
+  },
+  {
+    "id": 62,
+    "keyword": "keyword5",
+    "term": "Digital Humanity",
+    "title": "Visualizing Philosophy: A Modern Design Approach to Understand I-Ching",
+    "country": "USA"
+  },
+  {
+    "id": 63,
+    "keyword": "keyword1",
+    "term": "Design Thinking",
+    "title": "How Millennial Behaviours are Effecting the Design Process",
+    "country": "Canada"
+  },
+  {
+    "id": 63,
+    "keyword": "keyword2",
+    "term": "Immersive Environments",
+    "title": "How Millennial Behaviours are Effecting the Design Process",
+    "country": "Canada"
+  },
+  {
+    "id": 63,
+    "keyword": "keyword3",
+    "term": "Community Collaboration",
+    "title": "How Millennial Behaviours are Effecting the Design Process",
+    "country": "Canada"
+  },
+  {
+    "id": 64,
+    "keyword": "keyword1",
+    "term": "information visualization",
+    "title": "Simulated dendrochronology of immigrants and natural-borns in United States, showing the fifty states (1790-2016)",
+    "country": "USA"
+  },
+  {
+    "id": 64,
+    "keyword": "keyword2",
+    "term": "Data art",
+    "title": "Simulated dendrochronology of immigrants and natural-borns in United States, showing the fifty states (1790-2016)",
+    "country": "USA"
+  },
+  {
+    "id": 64,
+    "keyword": "keyword3",
+    "term": "bio-inspired systems",
+    "title": "Simulated dendrochronology of immigrants and natural-borns in United States, showing the fifty states (1790-2016)",
+    "country": "USA"
+  },
+  {
+    "id": 65,
+    "keyword": "keyword1",
+    "term": "annotation",
+    "title": "Modal",
+    "country": "Germany"
+  },
+  {
+    "id": 65,
+    "keyword": "keyword2",
+    "term": "tool",
+    "title": "Modal",
+    "country": "Germany"
+  },
+  {
+    "id": 65,
+    "keyword": "keyword3",
+    "term": "text visualization",
+    "title": "Modal",
+    "country": "Germany"
+  },
+  {
+    "id": 65,
+    "keyword": "keyword4",
+    "term": "text research",
+    "title": "Modal",
+    "country": "Germany"
+  },
+  {
+    "id": 65,
+    "keyword": "keyword5",
+    "term": "interaction design",
+    "title": "Modal",
+    "country": "Germany"
+  },
+  {
+    "id": 66,
+    "keyword": "keyword1",
+    "term": "Design Thinking",
+    "title": "Design Thinking for Wicked Data Visualization Problems",
+    "country": "Germany"
+  },
+  {
+    "id": 66,
+    "keyword": "keyword2",
+    "term": "Complex Systems",
+    "title": "Design Thinking for Wicked Data Visualization Problems",
+    "country": "Germany"
+  },
+  {
+    "id": 66,
+    "keyword": "keyword3",
+    "term": "Data Products",
+    "title": "Design Thinking for Wicked Data Visualization Problems",
+    "country": "Germany"
+  },
+  {
+    "id": 67,
+    "keyword": "keyword1",
+    "term": "decision support",
+    "title": "Visualising Industrial Capabilities for Sustainable Production",
+    "country": "Denmark"
+  },
+  {
+    "id": 67,
+    "keyword": "keyword2",
+    "term": "visualization",
+    "title": "Visualising Industrial Capabilities for Sustainable Production",
+    "country": "Denmark"
+  },
+  {
+    "id": 67,
+    "keyword": "keyword3",
+    "term": "sustainable production",
+    "title": "Visualising Industrial Capabilities for Sustainable Production",
+    "country": "Denmark"
+  },
+  {
+    "id": 68,
+    "keyword": "keyword1",
+    "term": "cultural analysis",
+    "title": "Forma Fluens: abstraction, simultaneity, and symbolization in crowd sourced drawings.",
+    "country": "USA"
+  },
+  {
+    "id": 68,
+    "keyword": "keyword2",
+    "term": "crowd sourced drawings",
+    "title": "Forma Fluens: abstraction, simultaneity, and symbolization in crowd sourced drawings.",
+    "country": "USA"
+  },
+  {
+    "id": 68,
+    "keyword": "keyword3",
+    "term": "archetypal images",
+    "title": "Forma Fluens: abstraction, simultaneity, and symbolization in crowd sourced drawings.",
+    "country": "USA"
+  },
+  {
+    "id": 69,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Designers - what are they good for (in data visualisation)?",
+    "country": "UK"
+  },
+  {
+    "id": 69,
+    "keyword": "keyword2",
+    "term": "design methods",
+    "title": "Designers - what are they good for (in data visualisation)?",
+    "country": "UK"
+  },
+  {
+    "id": 69,
+    "keyword": "keyword3",
+    "term": "design research",
+    "title": "Designers - what are they good for (in data visualisation)?",
+    "country": "UK"
+  },
+  {
+    "id": 69,
+    "keyword": "keyword4",
+    "term": "digital humanities",
+    "title": "Designers - what are they good for (in data visualisation)?",
+    "country": "UK"
+  },
+  {
+    "id": 70,
+    "keyword": "keyword1",
+    "term": "Wikipedia",
+    "title": "Visualizing the evolution of cultural content in Wikipedia",
+    "country": "Switzerland"
+  },
+  {
+    "id": 70,
+    "keyword": "keyword2",
+    "term": "cultural content",
+    "title": "Visualizing the evolution of cultural content in Wikipedia",
+    "country": "Switzerland"
+  },
+  {
+    "id": 70,
+    "keyword": "keyword3",
+    "term": "data visualization",
+    "title": "Visualizing the evolution of cultural content in Wikipedia",
+    "country": "Switzerland"
+  },
+  {
+    "id": 71,
+    "keyword": "keyword1",
+    "term": "indexical visualisation",
+    "title": "Sensing Gaia – indexical visualisation on planetary scale",
+    "country": "Switzerland"
+  },
+  {
+    "id": 71,
+    "keyword": "keyword2",
+    "term": "planetary scale sensing",
+    "title": "Sensing Gaia – indexical visualisation on planetary scale",
+    "country": "Switzerland"
+  },
+  {
+    "id": 71,
+    "keyword": "keyword3",
+    "term": "posthumanism",
+    "title": "Sensing Gaia – indexical visualisation on planetary scale",
+    "country": "Switzerland"
+  },
+  {
+    "id": 72,
+    "keyword": "keyword1",
+    "term": "Obesity",
+    "title": "Using information design to support primary care obesity management",
+    "country": "Canada"
+  },
+  {
+    "id": 72,
+    "keyword": "keyword2",
+    "term": "primary care",
+    "title": "Using information design to support primary care obesity management",
+    "country": "Canada"
+  },
+  {
+    "id": 72,
+    "keyword": "keyword3",
+    "term": "personalized care",
+    "title": "Using information design to support primary care obesity management",
+    "country": "Canada"
+  },
+  {
+    "id": 72,
+    "keyword": "keyword4",
+    "term": "Information design",
+    "title": "Using information design to support primary care obesity management",
+    "country": "Canada"
+  },
+  {
+    "id": 73,
+    "keyword": "keyword1",
+    "term": "data-driven city visualization",
+    "title": "City visualizations on the edge",
+    "country": "Switzerland"
+  },
+  {
+    "id": 73,
+    "keyword": "keyword2",
+    "term": "edge rendering",
+    "title": "City visualizations on the edge",
+    "country": "Switzerland"
+  },
+  {
+    "id": 73,
+    "keyword": "keyword3",
+    "term": "3D web cartography",
+    "title": "City visualizations on the edge",
+    "country": "Switzerland"
+  },
+  {
+    "id": 74,
+    "keyword": "keyword1",
+    "term": "Data-driven user interface design",
+    "title": "Peakspotting - a visual tool for managing the capacity of Germany’s rail traffic network",
+    "country": "Germany"
+  },
+  {
+    "id": 74,
+    "keyword": "keyword2",
+    "term": "applied visual analytics",
+    "title": "Peakspotting - a visual tool for managing the capacity of Germany’s rail traffic network",
+    "country": "Germany"
+  },
+  {
+    "id": 74,
+    "keyword": "keyword3",
+    "term": "machine Learning",
+    "title": "Peakspotting - a visual tool for managing the capacity of Germany’s rail traffic network",
+    "country": "Germany"
+  },
+  {
+    "id": 74,
+    "keyword": "keyword4",
+    "term": "agile design and development",
+    "title": "Peakspotting - a visual tool for managing the capacity of Germany’s rail traffic network",
+    "country": "Germany"
+  },
+  {
+    "id": 74,
+    "keyword": "keyword5",
+    "term": "Digital Transformation",
+    "title": "Peakspotting - a visual tool for managing the capacity of Germany’s rail traffic network",
+    "country": "Germany"
+  },
+  {
+    "id": 75,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Data Visualization on Inequality of Society",
+    "country": "Switzerland"
+  },
+  {
+    "id": 75,
+    "keyword": "keyword2",
+    "term": "social and political issues",
+    "title": "Data Visualization on Inequality of Society",
+    "country": "Switzerland"
+  },
+  {
+    "id": 75,
+    "keyword": "keyword3",
+    "term": "data journalism",
+    "title": "Data Visualization on Inequality of Society",
+    "country": "Switzerland"
+  },
+  {
+    "id": 75,
+    "keyword": "keyword4",
+    "term": "new diagram type",
+    "title": "Data Visualization on Inequality of Society",
+    "country": "Switzerland"
+  },
+  {
+    "id": 75,
+    "keyword": "keyword5",
+    "term": "countable diagram",
+    "title": "Data Visualization on Inequality of Society",
+    "country": "Switzerland"
+  },
+  {
+    "id": 75,
+    "keyword": "keyword6",
+    "term": "metrogram",
+    "title": "Data Visualization on Inequality of Society",
+    "country": "Switzerland"
+  },
+  {
+    "id": 76,
+    "keyword": "keyword1",
+    "term": "rhetoric",
+    "title": "Feeling Numbers: The Emotional Impact of Proximity Techniques in Visualization",
+    "country": "USA"
+  },
+  {
+    "id": 76,
+    "keyword": "keyword2",
+    "term": "emotion",
+    "title": "Feeling Numbers: The Emotional Impact of Proximity Techniques in Visualization",
+    "country": "USA"
+  },
+  {
+    "id": 76,
+    "keyword": "keyword3",
+    "term": "information visualization",
+    "title": "Feeling Numbers: The Emotional Impact of Proximity Techniques in Visualization",
+    "country": "USA"
+  },
+  {
+    "id": 77,
+    "keyword": "keyword1",
+    "term": "Visual abstracts",
+    "title": "The BMJ Visual Abstracts",
+    "country": "UK"
+  },
+  {
+    "id": 77,
+    "keyword": "keyword2",
+    "term": "Scientific publishing",
+    "title": "The BMJ Visual Abstracts",
+    "country": "UK"
+  },
+  {
+    "id": 77,
+    "keyword": "keyword3",
+    "term": "Infographics",
+    "title": "The BMJ Visual Abstracts",
+    "country": "UK"
+  },
+  {
+    "id": 77,
+    "keyword": "keyword4",
+    "term": "Health",
+    "title": "The BMJ Visual Abstracts",
+    "country": "UK"
+  },
+  {
+    "id": 77,
+    "keyword": "keyword5",
+    "term": "Medicine",
+    "title": "The BMJ Visual Abstracts",
+    "country": "UK"
+  },
+  {
+    "id": 77,
+    "keyword": "keyword6",
+    "term": "clinical trials",
+    "title": "The BMJ Visual Abstracts",
+    "country": "UK"
+  },
+  {
+    "id": 78,
+    "keyword": "keyword1",
+    "term": "Critical",
+    "title": "Market Place Interface",
+    "country": "USA"
+  },
+  {
+    "id": 78,
+    "keyword": "keyword2",
+    "term": "interface",
+    "title": "Market Place Interface",
+    "country": "USA"
+  },
+  {
+    "id": 78,
+    "keyword": "keyword3",
+    "term": "Urbanism",
+    "title": "Market Place Interface",
+    "country": "USA"
+  },
+  {
+    "id": 79,
+    "keyword": "keyword1",
+    "term": "scientific visualisation",
+    "title": "Virtual Humans, or how to use movie-industry tools for data visualisation and science dissemination",
+    "country": "Spain"
+  },
+  {
+    "id": 79,
+    "keyword": "keyword2",
+    "term": "health and medicine",
+    "title": "Virtual Humans, or how to use movie-industry tools for data visualisation and science dissemination",
+    "country": "Spain"
+  },
+  {
+    "id": 79,
+    "keyword": "keyword3",
+    "term": "science dissemination",
+    "title": "Virtual Humans, or how to use movie-industry tools for data visualisation and science dissemination",
+    "country": "Spain"
+  },
+  {
+    "id": 80,
+    "keyword": "keyword1",
+    "term": "wayfiding research",
+    "title": "Why people get lost in buildings – discovering user needs and behavior in wayfinding research",
+    "country": "Poland"
+  },
+  {
+    "id": 80,
+    "keyword": "keyword2",
+    "term": "building perception",
+    "title": "Why people get lost in buildings – discovering user needs and behavior in wayfinding research",
+    "country": "Poland"
+  },
+  {
+    "id": 80,
+    "keyword": "keyword3",
+    "term": "personas",
+    "title": "Why people get lost in buildings – discovering user needs and behavior in wayfinding research",
+    "country": "Poland"
+  },
+  {
+    "id": 80,
+    "keyword": "keyword4",
+    "term": "mental models",
+    "title": "Why people get lost in buildings – discovering user needs and behavior in wayfinding research",
+    "country": "Poland"
+  },
+  {
+    "id": 80,
+    "keyword": "keyword5",
+    "term": "users expectations",
+    "title": "Why people get lost in buildings – discovering user needs and behavior in wayfinding research",
+    "country": "Poland"
+  },
+  {
+    "id": 80,
+    "keyword": "keyword6",
+    "term": "user needs",
+    "title": "Why people get lost in buildings – discovering user needs and behavior in wayfinding research",
+    "country": "Poland"
+  },
+  {
+    "id": 81,
+    "keyword": "keyword1",
+    "term": "Information design",
+    "title": "How to improve practice: Reflections on teaching information design to non-designers",
+    "country": "USA"
+  },
+  {
+    "id": 81,
+    "keyword": "keyword2",
+    "term": "Non-designers",
+    "title": "How to improve practice: Reflections on teaching information design to non-designers",
+    "country": "USA"
+  },
+  {
+    "id": 81,
+    "keyword": "keyword3",
+    "term": "Professional practice",
+    "title": "How to improve practice: Reflections on teaching information design to non-designers",
+    "country": "USA"
+  },
+  {
+    "id": 82,
+    "keyword": "keyword1",
+    "term": "digital humanities",
+    "title": "Visualizing language in all its beautiful complexity",
+    "country": "Germany"
+  },
+  {
+    "id": 82,
+    "keyword": "keyword2",
+    "term": "linguistics",
+    "title": "Visualizing language in all its beautiful complexity",
+    "country": "Germany"
+  },
+  {
+    "id": 82,
+    "keyword": "keyword3",
+    "term": "scientific visualisation",
+    "title": "Visualizing language in all its beautiful complexity",
+    "country": "Germany"
+  },
+  {
+    "id": 83,
+    "keyword": "keyword1",
+    "term": "female sex trafficking",
+    "title": "Designing Safe Places",
+    "country": "USA"
+  },
+  {
+    "id": 83,
+    "keyword": "keyword2",
+    "term": "smart technology",
+    "title": "Designing Safe Places",
+    "country": "USA"
+  },
+  {
+    "id": 83,
+    "keyword": "keyword3",
+    "term": "policy accessibility",
+    "title": "Designing Safe Places",
+    "country": "USA"
+  },
+  {
+    "id": 84,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Taste Graph: A narrative visualization tool for massive media data",
+    "country": "Canada"
+  },
+  {
+    "id": 84,
+    "keyword": "keyword2",
+    "term": "Narrative tactics",
+    "title": "Taste Graph: A narrative visualization tool for massive media data",
+    "country": "Canada"
+  },
+  {
+    "id": 84,
+    "keyword": "keyword3",
+    "term": "Taste graph",
+    "title": "Taste Graph: A narrative visualization tool for massive media data",
+    "country": "Canada"
+  },
+  {
+    "id": 84,
+    "keyword": "keyword4",
+    "term": "design methods",
+    "title": "Taste Graph: A narrative visualization tool for massive media data",
+    "country": "Canada"
+  },
+  {
+    "id": 84,
+    "keyword": "keyword5",
+    "term": "Media",
+    "title": "Taste Graph: A narrative visualization tool for massive media data",
+    "country": "Canada"
+  },
+  {
+    "id": 84,
+    "keyword": "keyword6",
+    "term": "big data analysis",
+    "title": "Taste Graph: A narrative visualization tool for massive media data",
+    "country": "Canada"
+  },
+  {
+    "id": 85,
+    "keyword": "keyword1",
+    "term": "analogue interaction",
+    "title": "Public intervention through playful interactive visualisation",
+    "country": "Switzerland"
+  },
+  {
+    "id": 85,
+    "keyword": "keyword2",
+    "term": "visualization",
+    "title": "Public intervention through playful interactive visualisation",
+    "country": "Switzerland"
+  },
+  {
+    "id": 85,
+    "keyword": "keyword3",
+    "term": "Public intervention",
+    "title": "Public intervention through playful interactive visualisation",
+    "country": "Switzerland"
+  },
+  {
+    "id": 86,
+    "keyword": "keyword1",
+    "term": "Isotype",
+    "title": "Quo vadis, Isotype?",
+    "country": "Austria"
+  },
+  {
+    "id": 86,
+    "keyword": "keyword2",
+    "term": "information visualization",
+    "title": "Quo vadis, Isotype?",
+    "country": "Austria"
+  },
+  {
+    "id": 86,
+    "keyword": "keyword3",
+    "term": "cognitive processes",
+    "title": "Quo vadis, Isotype?",
+    "country": "Austria"
+  },
+  {
+    "id": 87,
+    "keyword": "keyword1",
+    "term": "data-storytelling",
+    "title": "What data storytelling can do for Italian public administration",
+    "country": "Italy"
+  },
+  {
+    "id": 87,
+    "keyword": "keyword2",
+    "term": "transparency",
+    "title": "What data storytelling can do for Italian public administration",
+    "country": "Italy"
+  },
+  {
+    "id": 87,
+    "keyword": "keyword3",
+    "term": "data visualization",
+    "title": "What data storytelling can do for Italian public administration",
+    "country": "Italy"
+  },
+  {
+    "id": 88,
+    "keyword": "keyword1",
+    "term": "visual participation",
+    "title": "Participation App for Socially Sustainable Cities",
+    "country": "Switzerland"
+  },
+  {
+    "id": 88,
+    "keyword": "keyword2",
+    "term": "city development",
+    "title": "Participation App for Socially Sustainable Cities",
+    "country": "Switzerland"
+  },
+  {
+    "id": 88,
+    "keyword": "keyword3",
+    "term": "social sustainability",
+    "title": "Participation App for Socially Sustainable Cities",
+    "country": "Switzerland"
+  },
+  {
+    "id": 88,
+    "keyword": "keyword4",
+    "term": "small multiples",
+    "title": "Participation App for Socially Sustainable Cities",
+    "country": "Switzerland"
+  },
+  {
+    "id": 88,
+    "keyword": "keyword5",
+    "term": "gamification",
+    "title": "Participation App for Socially Sustainable Cities",
+    "country": "Switzerland"
+  },
+  {
+    "id": 88,
+    "keyword": "keyword6",
+    "term": "web application",
+    "title": "Participation App for Socially Sustainable Cities",
+    "country": "Switzerland"
+  },
+  {
+    "id": 89,
+    "keyword": "keyword1",
+    "term": "Design Thinking",
+    "title": "Design Thinking Workshops for Data Visualisation Tools",
+    "country": "Turkey"
+  },
+  {
+    "id": 89,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "Design Thinking Workshops for Data Visualisation Tools",
+    "country": "Turkey"
+  },
+  {
+    "id": 89,
+    "keyword": "keyword3",
+    "term": "User Centered Design",
+    "title": "Design Thinking Workshops for Data Visualisation Tools",
+    "country": "Turkey"
+  },
+  {
+    "id": 90,
+    "keyword": "keyword1",
+    "term": "Participatory design",
+    "title": "Co-Designing for Feasibility: A Practical Action Guide to Channeling Voices from Under-privileged Communities into mHealth Product Development",
+    "country": "USA"
+  },
+  {
+    "id": 90,
+    "keyword": "keyword2",
+    "term": "Co-design",
+    "title": "Co-Designing for Feasibility: A Practical Action Guide to Channeling Voices from Under-privileged Communities into mHealth Product Development",
+    "country": "USA"
+  },
+  {
+    "id": 90,
+    "keyword": "keyword3",
+    "term": "Urban trauma",
+    "title": "Co-Designing for Feasibility: A Practical Action Guide to Channeling Voices from Under-privileged Communities into mHealth Product Development",
+    "country": "USA"
+  },
+  {
+    "id": 90,
+    "keyword": "keyword4",
+    "term": "mHealth",
+    "title": "Co-Designing for Feasibility: A Practical Action Guide to Channeling Voices from Under-privileged Communities into mHealth Product Development",
+    "country": "USA"
+  },
+  {
+    "id": 90,
+    "keyword": "keyword5",
+    "term": "mobile website",
+    "title": "Co-Designing for Feasibility: A Practical Action Guide to Channeling Voices from Under-privileged Communities into mHealth Product Development",
+    "country": "USA"
+  },
+  {
+    "id": 90,
+    "keyword": "keyword6",
+    "term": "Community engag",
+    "title": "Co-Designing for Feasibility: A Practical Action Guide to Channeling Voices from Under-privileged Communities into mHealth Product Development",
+    "country": "USA"
+  },
+  {
+    "id": 91,
+    "keyword": "keyword1",
+    "term": "health information",
+    "title": "Content based design research mantra: eight steps for visualising complexity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 91,
+    "keyword": "keyword2",
+    "term": "paper based design",
+    "title": "Content based design research mantra: eight steps for visualising complexity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 91,
+    "keyword": "keyword3",
+    "term": "visualising health patterns",
+    "title": "Content based design research mantra: eight steps for visualising complexity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 91,
+    "keyword": "keyword4",
+    "term": "design process",
+    "title": "Content based design research mantra: eight steps for visualising complexity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 91,
+    "keyword": "keyword5",
+    "term": "decision support",
+    "title": "Content based design research mantra: eight steps for visualising complexity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 91,
+    "keyword": "keyword6",
+    "term": "lower and middle income countries",
+    "title": "Content based design research mantra: eight steps for visualising complexity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 92,
+    "keyword": "keyword1",
+    "term": "Data-driven and dynamic visual identity",
+    "title": "Connecting People through Visualization. Creating a dynamic, data-driven visual identity that encourages meaningful interactions",
+    "country": "Finland"
+  },
+  {
+    "id": 92,
+    "keyword": "keyword2",
+    "term": "Information Design for facilitating interaction",
+    "title": "Connecting People through Visualization. Creating a dynamic, data-driven visual identity that encourages meaningful interactions",
+    "country": "Finland"
+  },
+  {
+    "id": 92,
+    "keyword": "keyword3",
+    "term": "User Centered Design",
+    "title": "Connecting People through Visualization. Creating a dynamic, data-driven visual identity that encourages meaningful interactions",
+    "country": "Finland"
+  },
+  {
+    "id": 93,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Data Feminism",
+    "country": "USA"
+  },
+  {
+    "id": 93,
+    "keyword": "keyword2",
+    "term": "feminism",
+    "title": "Data Feminism",
+    "country": "USA"
+  },
+  {
+    "id": 93,
+    "keyword": "keyword3",
+    "term": "Data inequality",
+    "title": "Data Feminism",
+    "country": "USA"
+  },
+  {
+    "id": 93,
+    "keyword": "keyword4",
+    "term": "Data ethics",
+    "title": "Data Feminism",
+    "country": "USA"
+  },
+  {
+    "id": 93,
+    "keyword": "keyword5",
+    "term": "gender",
+    "title": "Data Feminism",
+    "country": "USA"
+  },
+  {
+    "id": 94,
+    "keyword": "keyword1",
+    "term": "visual hyperparameter analysis",
+    "title": "HyperViz - an interactive visualization tool for analyzing hyperparameters",
+    "country": "Germany"
+  },
+  {
+    "id": 94,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "HyperViz - an interactive visualization tool for analyzing hyperparameters",
+    "country": "Germany"
+  },
+  {
+    "id": 94,
+    "keyword": "keyword3",
+    "term": "interactive machine learning",
+    "title": "HyperViz - an interactive visualization tool for analyzing hyperparameters",
+    "country": "Germany"
+  },
+  {
+    "id": 95,
+    "keyword": "keyword1",
+    "term": "situated data",
+    "title": "Critical visualization is a generative practice",
+    "country": "Canada, UK"
+  },
+  {
+    "id": 95,
+    "keyword": "keyword2",
+    "term": "critical practice",
+    "title": "Critical visualization is a generative practice",
+    "country": "Canada, UK"
+  },
+  {
+    "id": 95,
+    "keyword": "keyword3",
+    "term": "mapping",
+    "title": "Critical visualization is a generative practice",
+    "country": "Canada, UK"
+  },
+  {
+    "id": 95,
+    "keyword": "keyword4",
+    "term": "visualization",
+    "title": "Critical visualization is a generative practice",
+    "country": "Canada, UK"
+  },
+  {
+    "id": 95,
+    "keyword": "keyword5",
+    "term": "critical data",
+    "title": "Critical visualization is a generative practice",
+    "country": "Canada, UK"
+  },
+  {
+    "id": 96,
+    "keyword": "keyword1",
+    "term": "uncertainty",
+    "title": "Visualizing World War One Units with GeoBlobs",
+    "country": "UK"
+  },
+  {
+    "id": 96,
+    "keyword": "keyword2",
+    "term": "digital humanities",
+    "title": "Visualizing World War One Units with GeoBlobs",
+    "country": "UK"
+  },
+  {
+    "id": 96,
+    "keyword": "keyword3",
+    "term": "historical data",
+    "title": "Visualizing World War One Units with GeoBlobs",
+    "country": "UK"
+  },
+  {
+    "id": 97,
+    "keyword": "keyword1",
+    "term": "Mental maps / cognitive maps",
+    "title": "Observations from hundreds of hand-drawn maps",
+    "country": "UK"
+  },
+  {
+    "id": 97,
+    "keyword": "keyword2",
+    "term": "Visual communication",
+    "title": "Observations from hundreds of hand-drawn maps",
+    "country": "UK"
+  },
+  {
+    "id": 97,
+    "keyword": "keyword3",
+    "term": "Sketching visual displays of information",
+    "title": "Observations from hundreds of hand-drawn maps",
+    "country": "UK"
+  },
+  {
+    "id": 98,
+    "keyword": "keyword1",
+    "term": "Visual Language",
+    "title": "Designing a Language for Emergency: Insights from Guemil Project",
+    "country": "Chile"
+  },
+  {
+    "id": 98,
+    "keyword": "keyword2",
+    "term": "Emergency",
+    "title": "Designing a Language for Emergency: Insights from Guemil Project",
+    "country": "Chile"
+  },
+  {
+    "id": 98,
+    "keyword": "keyword3",
+    "term": "Icons",
+    "title": "Designing a Language for Emergency: Insights from Guemil Project",
+    "country": "Chile"
+  },
+  {
+    "id": 98,
+    "keyword": "keyword4",
+    "term": "performance",
+    "title": "Designing a Language for Emergency: Insights from Guemil Project",
+    "country": "Chile"
+  },
+  {
+    "id": 98,
+    "keyword": "keyword5",
+    "term": "Meaning",
+    "title": "Designing a Language for Emergency: Insights from Guemil Project",
+    "country": "Chile"
+  },
+  {
+    "id": 98,
+    "keyword": "keyword6",
+    "term": "Differences",
+    "title": "Designing a Language for Emergency: Insights from Guemil Project",
+    "country": "Chile"
+  },
+  {
+    "id": 99,
+    "keyword": "keyword1",
+    "term": "algorithm awareness",
+    "title": "Designing for Algorithm Awareness in Peer Production Systems",
+    "country": "Germany"
+  },
+  {
+    "id": 99,
+    "keyword": "keyword2",
+    "term": "algorithmic governance",
+    "title": "Designing for Algorithm Awareness in Peer Production Systems",
+    "country": "Germany"
+  },
+  {
+    "id": 99,
+    "keyword": "keyword3",
+    "term": "visualization",
+    "title": "Designing for Algorithm Awareness in Peer Production Systems",
+    "country": "Germany"
+  },
+  {
+    "id": 100,
+    "keyword": "keyword1",
+    "term": "value based healthcare",
+    "title": "Visualizing Patient Reported Outcomes for Doctors",
+    "country": "Germany"
+  },
+  {
+    "id": 100,
+    "keyword": "keyword2",
+    "term": "patient reported outcomes",
+    "title": "Visualizing Patient Reported Outcomes for Doctors",
+    "country": "Germany"
+  },
+  {
+    "id": 100,
+    "keyword": "keyword3",
+    "term": "interactive data visualization",
+    "title": "Visualizing Patient Reported Outcomes for Doctors",
+    "country": "Germany"
+  },
+  {
+    "id": 101,
+    "keyword": "keyword1",
+    "term": "automated data survey",
+    "title": "Open Data Cam - Open Source Platform for Object Detection for Urban Data Creation",
+    "country": "Germany"
+  },
+  {
+    "id": 101,
+    "keyword": "keyword2",
+    "term": "urban mobility",
+    "title": "Open Data Cam - Open Source Platform for Object Detection for Urban Data Creation",
+    "country": "Germany"
+  },
+  {
+    "id": 101,
+    "keyword": "keyword3",
+    "term": "object detection",
+    "title": "Open Data Cam - Open Source Platform for Object Detection for Urban Data Creation",
+    "country": "Germany"
+  },
+  {
+    "id": 101,
+    "keyword": "keyword4",
+    "term": "machine Learning",
+    "title": "Open Data Cam - Open Source Platform for Object Detection for Urban Data Creation",
+    "country": "Germany"
+  },
+  {
+    "id": 101,
+    "keyword": "keyword5",
+    "term": "open source",
+    "title": "Open Data Cam - Open Source Platform for Object Detection for Urban Data Creation",
+    "country": "Germany"
+  },
+  {
+    "id": 102,
+    "keyword": "keyword1",
+    "term": "live data",
+    "title": "Emergence of sonic data as a responsive interface",
+    "country": "India"
+  },
+  {
+    "id": 102,
+    "keyword": "keyword2",
+    "term": "sonic responsive interface",
+    "title": "Emergence of sonic data as a responsive interface",
+    "country": "India"
+  },
+  {
+    "id": 102,
+    "keyword": "keyword3",
+    "term": "data visualization",
+    "title": "Emergence of sonic data as a responsive interface",
+    "country": "India"
+  },
+  {
+    "id": 103,
+    "keyword": "keyword1",
+    "term": "literacy",
+    "title": "Literacy, usability, personality: data visualization as a qualitative driver in data life cycle",
+    "country": "Italy"
+  },
+  {
+    "id": 103,
+    "keyword": "keyword2",
+    "term": "usability",
+    "title": "Literacy, usability, personality: data visualization as a qualitative driver in data life cycle",
+    "country": "Italy"
+  },
+  {
+    "id": 103,
+    "keyword": "keyword3",
+    "term": "personality",
+    "title": "Literacy, usability, personality: data visualization as a qualitative driver in data life cycle",
+    "country": "Italy"
+  },
+  {
+    "id": 104,
+    "keyword": "keyword1",
+    "term": "Visual Information",
+    "title": "Human-Machine Image Interaction: Visualization Based on Motion",
+    "country": "Greece, USA"
+  },
+  {
+    "id": 104,
+    "keyword": "keyword2",
+    "term": "Perception",
+    "title": "Human-Machine Image Interaction: Visualization Based on Motion",
+    "country": "Greece, USA"
+  },
+  {
+    "id": 104,
+    "keyword": "keyword3",
+    "term": "Meaning",
+    "title": "Human-Machine Image Interaction: Visualization Based on Motion",
+    "country": "Greece, USA"
+  },
+  {
+    "id": 105,
+    "keyword": "keyword1",
+    "term": "digital humanities",
+    "title": "Looking behind data inconsistencies. The importance of exposing granularities that are difficult to be parsed and visualised",
+    "country": "Italy"
+  },
+  {
+    "id": 105,
+    "keyword": "keyword2",
+    "term": "Data Inconsistencies",
+    "title": "Looking behind data inconsistencies. The importance of exposing granularities that are difficult to be parsed and visualised",
+    "country": "Italy"
+  },
+  {
+    "id": 105,
+    "keyword": "keyword3",
+    "term": "Dataset Reduction",
+    "title": "Looking behind data inconsistencies. The importance of exposing granularities that are difficult to be parsed and visualised",
+    "country": "Italy"
+  },
+  {
+    "id": 105,
+    "keyword": "keyword4",
+    "term": "Information access",
+    "title": "Looking behind data inconsistencies. The importance of exposing granularities that are difficult to be parsed and visualised",
+    "country": "Italy"
+  },
+  {
+    "id": 105,
+    "keyword": "keyword5",
+    "term": "Poor data and rich data",
+    "title": "Looking behind data inconsistencies. The importance of exposing granularities that are difficult to be parsed and visualised",
+    "country": "Italy"
+  },
+  {
+    "id": 106,
+    "keyword": "keyword1",
+    "term": "computation",
+    "title": "Visualization is the message",
+    "country": "Germany"
+  },
+  {
+    "id": 106,
+    "keyword": "keyword2",
+    "term": "theory",
+    "title": "Visualization is the message",
+    "country": "Germany"
+  },
+  {
+    "id": 106,
+    "keyword": "keyword3",
+    "term": "operation",
+    "title": "Visualization is the message",
+    "country": "Germany"
+  },
+  {
+    "id": 106,
+    "keyword": "keyword4",
+    "term": "reflection",
+    "title": "Visualization is the message",
+    "country": "Germany"
+  },
+  {
+    "id": 107,
+    "keyword": "keyword1",
+    "term": "Space Interactivity",
+    "title": "Information + Physical Space: From Form-Giving to Conversation-Managing",
+    "country": "Greece, USA"
+  },
+  {
+    "id": 107,
+    "keyword": "keyword2",
+    "term": "Transiency",
+    "title": "Information + Physical Space: From Form-Giving to Conversation-Managing",
+    "country": "Greece, USA"
+  },
+  {
+    "id": 107,
+    "keyword": "keyword3",
+    "term": "Informational environments",
+    "title": "Information + Physical Space: From Form-Giving to Conversation-Managing",
+    "country": "Greece, USA"
+  },
+  {
+    "id": 108,
+    "keyword": "keyword1",
+    "term": "peculative futures",
+    "title": "Visualising polyphonic speculations; the paradox of making ambiguity readable.",
+    "country": "UK"
+  },
+  {
+    "id": 108,
+    "keyword": "keyword2",
+    "term": "visual ambiguity",
+    "title": "Visualising polyphonic speculations; the paradox of making ambiguity readable.",
+    "country": "UK"
+  },
+  {
+    "id": 108,
+    "keyword": "keyword3",
+    "term": "polyphonic visualisations",
+    "title": "Visualising polyphonic speculations; the paradox of making ambiguity readable.",
+    "country": "UK"
+  },
+  {
+    "id": 109,
+    "keyword": "keyword1",
+    "term": "bio-communication",
+    "title": "Biomimetic Informational Flow",
+    "country": "India"
+  },
+  {
+    "id": 109,
+    "keyword": "keyword2",
+    "term": "Information system/flow",
+    "title": "Biomimetic Informational Flow",
+    "country": "India"
+  },
+  {
+    "id": 109,
+    "keyword": "keyword3",
+    "term": "bio mimesis .",
+    "title": "Biomimetic Informational Flow",
+    "country": "India"
+  },
+  {
+    "id": 109,
+    "keyword": "keyword4",
+    "term": "distributed information ecology",
+    "title": "Biomimetic Informational Flow",
+    "country": "India"
+  },
+  {
+    "id": 110,
+    "keyword": "keyword1",
+    "term": "Open Data Artifacts",
+    "title": "A Visual Framework for Open Data Artifacts",
+    "country": "India"
+  },
+  {
+    "id": 110,
+    "keyword": "keyword2",
+    "term": "Data Driven Design",
+    "title": "A Visual Framework for Open Data Artifacts",
+    "country": "India"
+  },
+  {
+    "id": 110,
+    "keyword": "keyword3",
+    "term": "Information Architecture",
+    "title": "A Visual Framework for Open Data Artifacts",
+    "country": "India"
+  },
+  {
+    "id": 111,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Understanding Cyber Attacks on Water Supply Systems: an integrated sound and visual design approach to data representation for decision-making.",
+    "country": "Italy, Singapore"
+  },
+  {
+    "id": 111,
+    "keyword": "keyword2",
+    "term": "Data Sonification",
+    "title": "Understanding Cyber Attacks on Water Supply Systems: an integrated sound and visual design approach to data representation for decision-making.",
+    "country": "Italy, Singapore"
+  },
+  {
+    "id": 111,
+    "keyword": "keyword3",
+    "term": "Cybersecurity",
+    "title": "Understanding Cyber Attacks on Water Supply Systems: an integrated sound and visual design approach to data representation for decision-making.",
+    "country": "Italy, Singapore"
+  },
+  {
+    "id": 111,
+    "keyword": "keyword4",
+    "term": "Cyber-Attacks",
+    "title": "Understanding Cyber Attacks on Water Supply Systems: an integrated sound and visual design approach to data representation for decision-making.",
+    "country": "Italy, Singapore"
+  },
+  {
+    "id": 112,
+    "keyword": "keyword1",
+    "term": "information visualization",
+    "title": "Communicating information with numbers: analysis of Data Visualization in press releases of Instituto Nacional de Estatística",
+    "country": "Portugal"
+  },
+  {
+    "id": 112,
+    "keyword": "keyword2",
+    "term": "data journalism",
+    "title": "Communicating information with numbers: analysis of Data Visualization in press releases of Instituto Nacional de Estatística",
+    "country": "Portugal"
+  },
+  {
+    "id": 112,
+    "keyword": "keyword3",
+    "term": "data visualization",
+    "title": "Communicating information with numbers: analysis of Data Visualization in press releases of Instituto Nacional de Estatística",
+    "country": "Portugal"
+  },
+  {
+    "id": 112,
+    "keyword": "keyword4",
+    "term": "Communication",
+    "title": "Communicating information with numbers: analysis of Data Visualization in press releases of Instituto Nacional de Estatística",
+    "country": "Portugal"
+  },
+  {
+    "id": 113,
+    "keyword": "keyword1",
+    "term": "music",
+    "title": "Invisible Cathedrals: exploring the sonic architecture of J. S. Bach’s keyboard compositions",
+    "country": "USA"
+  },
+  {
+    "id": 113,
+    "keyword": "keyword2",
+    "term": "visualization",
+    "title": "Invisible Cathedrals: exploring the sonic architecture of J. S. Bach’s keyboard compositions",
+    "country": "USA"
+  },
+  {
+    "id": 113,
+    "keyword": "keyword3",
+    "term": "analysis",
+    "title": "Invisible Cathedrals: exploring the sonic architecture of J. S. Bach’s keyboard compositions",
+    "country": "USA"
+  },
+  {
+    "id": 114,
+    "keyword": "keyword1",
+    "term": "design patterns",
+    "title": "Visualization design patterns – the 15 building blocks of all chart types",
+    "country": "Netherlands, UK"
+  },
+  {
+    "id": 114,
+    "keyword": "keyword2",
+    "term": "visual encoding",
+    "title": "Visualization design patterns – the 15 building blocks of all chart types",
+    "country": "Netherlands, UK"
+  },
+  {
+    "id": 114,
+    "keyword": "keyword3",
+    "term": "chart types",
+    "title": "Visualization design patterns – the 15 building blocks of all chart types",
+    "country": "Netherlands, UK"
+  },
+  {
+    "id": 115,
+    "keyword": "keyword1",
+    "term": "streets nomenclature",
+    "title": "City, streets and identities: Cuenca 1557-2018",
+    "country": "Ecuador"
+  },
+  {
+    "id": 115,
+    "keyword": "keyword2",
+    "term": "gender",
+    "title": "City, streets and identities: Cuenca 1557-2018",
+    "country": "Ecuador"
+  },
+  {
+    "id": 115,
+    "keyword": "keyword3",
+    "term": "data visualization",
+    "title": "City, streets and identities: Cuenca 1557-2018",
+    "country": "Ecuador"
+  },
+  {
+    "id": 116,
+    "keyword": "keyword1",
+    "term": "Design Management",
+    "title": "Using visualizations for a qualitative case study research on design management",
+    "country": "Brazil"
+  },
+  {
+    "id": 116,
+    "keyword": "keyword2",
+    "term": "Information design",
+    "title": "Using visualizations for a qualitative case study research on design management",
+    "country": "Brazil"
+  },
+  {
+    "id": 116,
+    "keyword": "keyword3",
+    "term": "Case Study",
+    "title": "Using visualizations for a qualitative case study research on design management",
+    "country": "Brazil"
+  },
+  {
+    "id": 116,
+    "keyword": "keyword4",
+    "term": "Distance Learning",
+    "title": "Using visualizations for a qualitative case study research on design management",
+    "country": "Brazil"
+  },
+  {
+    "id": 117,
+    "keyword": "keyword1",
+    "term": "storytelling",
+    "title": "Data Comics for Data-Driven Storytelling: Past, Present, and Future",
+    "country": "USA, UK"
+  },
+  {
+    "id": 117,
+    "keyword": "keyword2",
+    "term": "comics",
+    "title": "Data Comics for Data-Driven Storytelling: Past, Present, and Future",
+    "country": "USA, UK"
+  },
+  {
+    "id": 117,
+    "keyword": "keyword3",
+    "term": "sketching",
+    "title": "Data Comics for Data-Driven Storytelling: Past, Present, and Future",
+    "country": "USA, UK"
+  },
+  {
+    "id": 118,
+    "keyword": "keyword1",
+    "term": "designers",
+    "title": "«We’re all designers!» - so why do some of them extract data stories while others do infographic services?",
+    "country": "Switzerland"
+  },
+  {
+    "id": 118,
+    "keyword": "keyword2",
+    "term": "institutionalization",
+    "title": "«We’re all designers!» - so why do some of them extract data stories while others do infographic services?",
+    "country": "Switzerland"
+  },
+  {
+    "id": 118,
+    "keyword": "keyword3",
+    "term": "data journalism",
+    "title": "«We’re all designers!» - so why do some of them extract data stories while others do infographic services?",
+    "country": "Switzerland"
+  },
+  {
+    "id": 118,
+    "keyword": "keyword4",
+    "term": "sociology",
+    "title": "«We’re all designers!» - so why do some of them extract data stories while others do infographic services?",
+    "country": "Switzerland"
+  },
+  {
+    "id": 118,
+    "keyword": "keyword5",
+    "term": "data literacy",
+    "title": "«We’re all designers!» - so why do some of them extract data stories while others do infographic services?",
+    "country": "Switzerland"
+  },
+  {
+    "id": 119,
+    "keyword": "keyword1",
+    "term": "Mockups",
+    "title": "Authoring Rapid Visualization Mockups at the Graphical Level",
+    "country": "France"
+  },
+  {
+    "id": 119,
+    "keyword": "keyword2",
+    "term": "Rapid Prototyping",
+    "title": "Authoring Rapid Visualization Mockups at the Graphical Level",
+    "country": "France"
+  },
+  {
+    "id": 119,
+    "keyword": "keyword3",
+    "term": "design process",
+    "title": "Authoring Rapid Visualization Mockups at the Graphical Level",
+    "country": "France"
+  },
+  {
+    "id": 119,
+    "keyword": "keyword4",
+    "term": "Graphics Design",
+    "title": "Authoring Rapid Visualization Mockups at the Graphical Level",
+    "country": "France"
+  },
+  {
+    "id": 120,
+    "keyword": "keyword1",
+    "term": "colour-coding",
+    "title": "Adventures in Colour coding",
+    "country": "Austria"
+  },
+  {
+    "id": 120,
+    "keyword": "keyword2",
+    "term": "wayfinding",
+    "title": "Adventures in Colour coding",
+    "country": "Austria"
+  },
+  {
+    "id": 120,
+    "keyword": "keyword3",
+    "term": "environmental graphics",
+    "title": "Adventures in Colour coding",
+    "country": "Austria"
+  },
+  {
+    "id": 120,
+    "keyword": "keyword4",
+    "term": "accessibility",
+    "title": "Adventures in Colour coding",
+    "country": "Austria"
+  },
+  {
+    "id": 121,
+    "keyword": "keyword1",
+    "term": "map design",
+    "title": "Are maps art?",
+    "country": "Austria, Italy"
+  },
+  {
+    "id": 121,
+    "keyword": "keyword2",
+    "term": "digital design",
+    "title": "Are maps art?",
+    "country": "Austria, Italy"
+  },
+  {
+    "id": 121,
+    "keyword": "keyword3",
+    "term": "service design",
+    "title": "Are maps art?",
+    "country": "Austria, Italy"
+  },
+  {
+    "id": 121,
+    "keyword": "keyword4",
+    "term": "art",
+    "title": "Are maps art?",
+    "country": "Austria, Italy"
+  },
+  {
+    "id": 121,
+    "keyword": "keyword5",
+    "term": "Information design",
+    "title": "Are maps art?",
+    "country": "Austria, Italy"
+  },
+  {
+    "id": 122,
+    "keyword": "keyword1",
+    "term": "advocacy",
+    "title": "Communication design data strategies for advocacy",
+    "country": "Italy, Chile"
+  },
+  {
+    "id": 122,
+    "keyword": "keyword2",
+    "term": "data-narratives",
+    "title": "Communication design data strategies for advocacy",
+    "country": "Italy, Chile"
+  },
+  {
+    "id": 122,
+    "keyword": "keyword3",
+    "term": "data-strategies",
+    "title": "Communication design data strategies for advocacy",
+    "country": "Italy, Chile"
+  },
+  {
+    "id": 123,
+    "keyword": "keyword1",
+    "term": "Information design",
+    "title": "Communicating without text",
+    "country": "Italy"
+  },
+  {
+    "id": 123,
+    "keyword": "keyword2",
+    "term": "instructions",
+    "title": "Communicating without text",
+    "country": "Italy"
+  },
+  {
+    "id": 123,
+    "keyword": "keyword3",
+    "term": "pictorial",
+    "title": "Communicating without text",
+    "country": "Italy"
+  },
+  {
+    "id": 123,
+    "keyword": "keyword4",
+    "term": "typography",
+    "title": "Communicating without text",
+    "country": "Italy"
+  },
+  {
+    "id": 123,
+    "keyword": "keyword5",
+    "term": "diagrams",
+    "title": "Communicating without text",
+    "country": "Italy"
+  },
+  {
+    "id": 123,
+    "keyword": "keyword6",
+    "term": "understanding",
+    "title": "Communicating without text",
+    "country": "Italy"
+  },
+  {
+    "id": 124,
+    "keyword": "keyword1",
+    "term": "Social Engagement through Artistic Works",
+    "title": "Designing Online Media Platform for Archiving Artistic Works and Activities Created by People with Disabilities",
+    "country": "Japan"
+  },
+  {
+    "id": 124,
+    "keyword": "keyword2",
+    "term": "Online Media for Archiving",
+    "title": "Designing Online Media Platform for Archiving Artistic Works and Activities Created by People with Disabilities",
+    "country": "Japan"
+  },
+  {
+    "id": 124,
+    "keyword": "keyword3",
+    "term": "Expressions by People with Disabilities",
+    "title": "Designing Online Media Platform for Archiving Artistic Works and Activities Created by People with Disabilities",
+    "country": "Japan"
+  },
+  {
+    "id": 125,
+    "keyword": "keyword1",
+    "term": "tool",
+    "title": "3DH: Designing Critical Visualization Interfaces for Literary Scholars",
+    "country": "Germany"
+  },
+  {
+    "id": 125,
+    "keyword": "keyword2",
+    "term": "digital humanities",
+    "title": "3DH: Designing Critical Visualization Interfaces for Literary Scholars",
+    "country": "Germany"
+  },
+  {
+    "id": 125,
+    "keyword": "keyword3",
+    "term": "text visualization",
+    "title": "3DH: Designing Critical Visualization Interfaces for Literary Scholars",
+    "country": "Germany"
+  },
+  {
+    "id": 126,
+    "keyword": "keyword1",
+    "term": "ESTDA (Exploratory Spatio-Temporal Data Analysis)",
+    "title": "Analysing historical data in time and space (case study of Christian baptisteries)",
+    "country": "Czechia"
+  },
+  {
+    "id": 126,
+    "keyword": "keyword2",
+    "term": "historical data",
+    "title": "Analysing historical data in time and space (case study of Christian baptisteries)",
+    "country": "Czechia"
+  },
+  {
+    "id": 126,
+    "keyword": "keyword3",
+    "term": "digital humanities",
+    "title": "Analysing historical data in time and space (case study of Christian baptisteries)",
+    "country": "Czechia"
+  },
+  {
+    "id": 127,
+    "keyword": "keyword1",
+    "term": "data dense visualizations",
+    "title": "Techniques for Adding Diverse Contextual Data into Visualizations",
+    "country": "Canada"
+  },
+  {
+    "id": 127,
+    "keyword": "keyword2",
+    "term": "context in visualizations",
+    "title": "Techniques for Adding Diverse Contextual Data into Visualizations",
+    "country": "Canada"
+  },
+  {
+    "id": 127,
+    "keyword": "keyword3",
+    "term": "visualization of heterogeneous datasets",
+    "title": "Techniques for Adding Diverse Contextual Data into Visualizations",
+    "country": "Canada"
+  },
+  {
+    "id": 127,
+    "keyword": "keyword4",
+    "term": "multivariate visualization",
+    "title": "Techniques for Adding Diverse Contextual Data into Visualizations",
+    "country": "Canada"
+  },
+  {
+    "id": 128,
+    "keyword": "keyword1",
+    "term": "activity-centered design",
+    "title": "Chartjunk in every home: an analysis of visualization art as Activity-Centered Design",
+    "country": "USA"
+  },
+  {
+    "id": 128,
+    "keyword": "keyword2",
+    "term": "Data humanism",
+    "title": "Chartjunk in every home: an analysis of visualization art as Activity-Centered Design",
+    "country": "USA"
+  },
+  {
+    "id": 128,
+    "keyword": "keyword3",
+    "term": "data literacy",
+    "title": "Chartjunk in every home: an analysis of visualization art as Activity-Centered Design",
+    "country": "USA"
+  },
+  {
+    "id": 128,
+    "keyword": "keyword4",
+    "term": "data journalism",
+    "title": "Chartjunk in every home: an analysis of visualization art as Activity-Centered Design",
+    "country": "USA"
+  },
+  {
+    "id": 128,
+    "keyword": "keyword5",
+    "term": "Narrative visualization",
+    "title": "Chartjunk in every home: an analysis of visualization art as Activity-Centered Design",
+    "country": "USA"
+  },
+  {
+    "id": 128,
+    "keyword": "keyword6",
+    "term": "artistic visualization",
+    "title": "Chartjunk in every home: an analysis of visualization art as Activity-Centered Design",
+    "country": "USA"
+  },
+  {
+    "id": 129,
+    "keyword": "keyword1",
+    "term": "Objectivity",
+    "title": "Reading between the codes: Metaphoric associations and the myth of objectivity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 129,
+    "keyword": "keyword2",
+    "term": "Visual Code",
+    "title": "Reading between the codes: Metaphoric associations and the myth of objectivity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 129,
+    "keyword": "keyword3",
+    "term": "Metaphoric associations",
+    "title": "Reading between the codes: Metaphoric associations and the myth of objectivity",
+    "country": "Switzerland"
+  },
+  {
+    "id": 130,
+    "keyword": "keyword1",
+    "term": "official statistics",
+    "title": "Statistics as commons: Making official statistics more accessible to citizens",
+    "country": "Germany"
+  },
+  {
+    "id": 130,
+    "keyword": "keyword2",
+    "term": "open data",
+    "title": "Statistics as commons: Making official statistics more accessible to citizens",
+    "country": "Germany"
+  },
+  {
+    "id": 130,
+    "keyword": "keyword3",
+    "term": "data journalism",
+    "title": "Statistics as commons: Making official statistics more accessible to citizens",
+    "country": "Germany"
+  },
+  {
+    "id": 131,
+    "keyword": "keyword1",
+    "term": "Policy and Civic Data",
+    "title": "DrugStrat: Visualizing International Drug Policy",
+    "country": "Canada"
+  },
+  {
+    "id": 131,
+    "keyword": "keyword2",
+    "term": "Interactivity",
+    "title": "DrugStrat: Visualizing International Drug Policy",
+    "country": "Canada"
+  },
+  {
+    "id": 131,
+    "keyword": "keyword3",
+    "term": "User experience",
+    "title": "DrugStrat: Visualizing International Drug Policy",
+    "country": "Canada"
+  },
+  {
+    "id": 131,
+    "keyword": "keyword4",
+    "term": "Data Analytics",
+    "title": "DrugStrat: Visualizing International Drug Policy",
+    "country": "Canada"
+  },
+  {
+    "id": 131,
+    "keyword": "keyword5",
+    "term": "collaboration",
+    "title": "DrugStrat: Visualizing International Drug Policy",
+    "country": "Canada"
+  },
+  {
+    "id": 131,
+    "keyword": "keyword6",
+    "term": "Code",
+    "title": "DrugStrat: Visualizing International Drug Policy",
+    "country": "Canada"
+  },
+  {
+    "id": 132,
+    "keyword": "keyword1",
+    "term": "data-driven",
+    "title": "Turning Numbers into Pictures with Data-Driven Design Tools",
+    "country": "USA"
+  },
+  {
+    "id": 132,
+    "keyword": "keyword2",
+    "term": "design",
+    "title": "Turning Numbers into Pictures with Data-Driven Design Tools",
+    "country": "USA"
+  },
+  {
+    "id": 132,
+    "keyword": "keyword3",
+    "term": "tools",
+    "title": "Turning Numbers into Pictures with Data-Driven Design Tools",
+    "country": "USA"
+  },
+  {
+    "id": 133,
+    "keyword": "keyword1",
+    "term": "Critical Cartography",
+    "title": "We Can: Data Driven Project into Lives of NYC Canners",
+    "country": "USA"
+  },
+  {
+    "id": 133,
+    "keyword": "keyword2",
+    "term": "Urban Storytelling",
+    "title": "We Can: Data Driven Project into Lives of NYC Canners",
+    "country": "USA"
+  },
+  {
+    "id": 133,
+    "keyword": "keyword3",
+    "term": "analogue Data Visualization",
+    "title": "We Can: Data Driven Project into Lives of NYC Canners",
+    "country": "USA"
+  },
+  {
+    "id": 133,
+    "keyword": "keyword4",
+    "term": "Oral History",
+    "title": "We Can: Data Driven Project into Lives of NYC Canners",
+    "country": "USA"
+  },
+  {
+    "id": 133,
+    "keyword": "keyword5",
+    "term": "Illustration",
+    "title": "We Can: Data Driven Project into Lives of NYC Canners",
+    "country": "USA"
+  },
+  {
+    "id": 133,
+    "keyword": "keyword6",
+    "term": "Multimedia Narratives",
+    "title": "We Can: Data Driven Project into Lives of NYC Canners",
+    "country": "USA"
+  },
+  {
+    "id": 134,
+    "keyword": "keyword1",
+    "term": "declarative specification",
+    "title": "Declarative Visualization Design",
+    "country": "USA"
+  },
+  {
+    "id": 134,
+    "keyword": "keyword2",
+    "term": "automated visualization design",
+    "title": "Declarative Visualization Design",
+    "country": "USA"
+  },
+  {
+    "id": 134,
+    "keyword": "keyword3",
+    "term": "automated reasoning",
+    "title": "Declarative Visualization Design",
+    "country": "USA"
+  },
+  {
+    "id": 134,
+    "keyword": "keyword4",
+    "term": "vega-lite",
+    "title": "Declarative Visualization Design",
+    "country": "USA"
+  },
+  {
+    "id": 135,
+    "keyword": "keyword1",
+    "term": "infoviz",
+    "title": "Information System for decision making in the management of Urban Solid Waste in Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": 135,
+    "keyword": "keyword2",
+    "term": "data",
+    "title": "Information System for decision making in the management of Urban Solid Waste in Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": 135,
+    "keyword": "keyword3",
+    "term": "solid waste",
+    "title": "Information System for decision making in the management of Urban Solid Waste in Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": 136,
+    "keyword": "keyword1",
+    "term": "visualization",
+    "title": "Data visualization to inform and engage non-experts on new public policies for urban development and quality of life in cities.",
+    "country": "Chile"
+  },
+  {
+    "id": 136,
+    "keyword": "keyword2",
+    "term": "Urban Development",
+    "title": "Data visualization to inform and engage non-experts on new public policies for urban development and quality of life in cities.",
+    "country": "Chile"
+  },
+  {
+    "id": 136,
+    "keyword": "keyword3",
+    "term": "public policy",
+    "title": "Data visualization to inform and engage non-experts on new public policies for urban development and quality of life in cities.",
+    "country": "Chile"
+  },
+  {
+    "id": 137,
+    "keyword": "keyword1",
+    "term": "art visualization",
+    "title": "Nº4 - An artistic exploration of how knowledge is organized.",
+    "country": "Brazil"
+  },
+  {
+    "id": 137,
+    "keyword": "keyword2",
+    "term": "Data art",
+    "title": "Nº4 - An artistic exploration of how knowledge is organized.",
+    "country": "Brazil"
+  },
+  {
+    "id": 137,
+    "keyword": "keyword3",
+    "term": "Knowledge organization",
+    "title": "Nº4 - An artistic exploration of how knowledge is organized.",
+    "country": "Brazil"
+  },
+  {
+    "id": 138,
+    "keyword": "keyword1",
+    "term": "film",
+    "title": "Rhythmic Trajectories — Non-destructive Visualization of Rhythm in Film",
+    "country": "USA"
+  },
+  {
+    "id": 138,
+    "keyword": "keyword2",
+    "term": "rhythm",
+    "title": "Rhythmic Trajectories — Non-destructive Visualization of Rhythm in Film",
+    "country": "USA"
+  },
+  {
+    "id": 138,
+    "keyword": "keyword3",
+    "term": "movement",
+    "title": "Rhythmic Trajectories — Non-destructive Visualization of Rhythm in Film",
+    "country": "USA"
+  },
+  {
+    "id": 139,
+    "keyword": "keyword1",
+    "term": "community",
+    "title": "Who are we and what are we doing? A call for self-reflection in information design",
+    "country": "USA"
+  },
+  {
+    "id": 139,
+    "keyword": "keyword2",
+    "term": "Dialogue",
+    "title": "Who are we and what are we doing? A call for self-reflection in information design",
+    "country": "USA"
+  },
+  {
+    "id": 139,
+    "keyword": "keyword3",
+    "term": "reflection",
+    "title": "Who are we and what are we doing? A call for self-reflection in information design",
+    "country": "USA"
+  },
+  {
+    "id": 139,
+    "keyword": "keyword4",
+    "term": "Information design",
+    "title": "Who are we and what are we doing? A call for self-reflection in information design",
+    "country": "USA"
+  },
+  {
+    "id": 140,
+    "keyword": "keyword1",
+    "term": "keyword",
+    "title": "The Need for an Open Source Taxonomy to Identify Unique Research Concepts in Communication Design",
+    "country": "USA"
+  },
+  {
+    "id": 140,
+    "keyword": "keyword2",
+    "term": "taxonomy",
+    "title": "The Need for an Open Source Taxonomy to Identify Unique Research Concepts in Communication Design",
+    "country": "USA"
+  },
+  {
+    "id": 140,
+    "keyword": "keyword3",
+    "term": "research concepts",
+    "title": "The Need for an Open Source Taxonomy to Identify Unique Research Concepts in Communication Design",
+    "country": "USA"
+  },
+  {
+    "id": 140,
+    "keyword": "keyword4",
+    "term": "design research",
+    "title": "The Need for an Open Source Taxonomy to Identify Unique Research Concepts in Communication Design",
+    "country": "USA"
+  },
+  {
+    "id": 141,
+    "keyword": "keyword1",
+    "term": "User experience",
+    "title": "User Experience, Typography, and Truth",
+    "country": "USA"
+  },
+  {
+    "id": 141,
+    "keyword": "keyword2",
+    "term": "typography",
+    "title": "User Experience, Typography, and Truth",
+    "country": "USA"
+  },
+  {
+    "id": 141,
+    "keyword": "keyword3",
+    "term": "Social Media",
+    "title": "User Experience, Typography, and Truth",
+    "country": "USA"
+  },
+  {
+    "id": 141,
+    "keyword": "keyword4",
+    "term": "Newspapers",
+    "title": "User Experience, Typography, and Truth",
+    "country": "USA"
+  },
+  {
+    "id": 142,
+    "keyword": "keyword1",
+    "term": "information",
+    "title": "Mixtec Pictorial Manuscripts: a source of visual information",
+    "country": "Mexico"
+  },
+  {
+    "id": 142,
+    "keyword": "keyword2",
+    "term": "painted manuscripts",
+    "title": "Mixtec Pictorial Manuscripts: a source of visual information",
+    "country": "Mexico"
+  },
+  {
+    "id": 142,
+    "keyword": "keyword3",
+    "term": "signs",
+    "title": "Mixtec Pictorial Manuscripts: a source of visual information",
+    "country": "Mexico"
+  },
+  {
+    "id": 143,
+    "keyword": "keyword1",
+    "term": "multisensory experiences",
+    "title": "SensArt: Engaging With Visual Art Through a Multisensory Experience",
+    "country": "Canada"
+  },
+  {
+    "id": 143,
+    "keyword": "keyword2",
+    "term": "wearables",
+    "title": "SensArt: Engaging With Visual Art Through a Multisensory Experience",
+    "country": "Canada"
+  },
+  {
+    "id": 143,
+    "keyword": "keyword3",
+    "term": "visual art",
+    "title": "SensArt: Engaging With Visual Art Through a Multisensory Experience",
+    "country": "Canada"
+  },
+  {
+    "id": 144,
+    "keyword": "keyword1",
+    "term": "Information design pedagogy",
+    "title": "Critical-oriented physical visualizations: reflections on a student project intended to develop imagination and visual skills in information design students",
+    "country": "USA"
+  },
+  {
+    "id": 144,
+    "keyword": "keyword2",
+    "term": "Critical design",
+    "title": "Critical-oriented physical visualizations: reflections on a student project intended to develop imagination and visual skills in information design students",
+    "country": "USA"
+  },
+  {
+    "id": 144,
+    "keyword": "keyword3",
+    "term": "Metaphorical thinking",
+    "title": "Critical-oriented physical visualizations: reflections on a student project intended to develop imagination and visual skills in information design students",
+    "country": "USA"
+  },
+  {
+    "id": 145,
+    "keyword": "keyword1",
+    "term": "Participation",
+    "title": "Participatory visualization with communities: from tools and skills to space and infrastructures",
+    "country": "Canada"
+  },
+  {
+    "id": 145,
+    "keyword": "keyword2",
+    "term": "community",
+    "title": "Participatory visualization with communities: from tools and skills to space and infrastructures",
+    "country": "Canada"
+  },
+  {
+    "id": 145,
+    "keyword": "keyword3",
+    "term": "Participatory Action Research",
+    "title": "Participatory visualization with communities: from tools and skills to space and infrastructures",
+    "country": "Canada"
+  },
+  {
+    "id": 145,
+    "keyword": "keyword4",
+    "term": "Social Design",
+    "title": "Participatory visualization with communities: from tools and skills to space and infrastructures",
+    "country": "Canada"
+  },
+  {
+    "id": 146,
+    "keyword": "keyword1",
+    "term": "journalism",
+    "title": "Think like a journalist: Tips for stronger, clearer and more cohesive visual narratives",
+    "country": "USA"
+  },
+  {
+    "id": 146,
+    "keyword": "keyword2",
+    "term": "Visual narratives",
+    "title": "Think like a journalist: Tips for stronger, clearer and more cohesive visual narratives",
+    "country": "USA"
+  },
+  {
+    "id": 146,
+    "keyword": "keyword3",
+    "term": "Communicate clearly",
+    "title": "Think like a journalist: Tips for stronger, clearer and more cohesive visual narratives",
+    "country": "USA"
+  },
+  {
+    "id": 147,
+    "keyword": "keyword1",
+    "term": "data physicalization",
+    "title": "Data physicalizations as a data generation tool",
+    "country": "France"
+  },
+  {
+    "id": 147,
+    "keyword": "keyword2",
+    "term": "data reports",
+    "title": "Data physicalizations as a data generation tool",
+    "country": "France"
+  },
+  {
+    "id": 147,
+    "keyword": "keyword3",
+    "term": "personal data",
+    "title": "Data physicalizations as a data generation tool",
+    "country": "France"
+  },
+  {
+    "id": 147,
+    "keyword": "keyword4",
+    "term": "making",
+    "title": "Data physicalizations as a data generation tool",
+    "country": "France"
+  },
+  {
+    "id": 148,
+    "keyword": "keyword1",
+    "term": "cross-cultural",
+    "title": "Participatory data visualizations coalesce virtual learning communities",
+    "country": "USA"
+  },
+  {
+    "id": 148,
+    "keyword": "keyword2",
+    "term": "participatory",
+    "title": "Participatory data visualizations coalesce virtual learning communities",
+    "country": "USA"
+  },
+  {
+    "id": 148,
+    "keyword": "keyword3",
+    "term": "information visualization",
+    "title": "Participatory data visualizations coalesce virtual learning communities",
+    "country": "USA"
+  },
+  {
+    "id": 148,
+    "keyword": "keyword4",
+    "term": "collaboration",
+    "title": "Participatory data visualizations coalesce virtual learning communities",
+    "country": "USA"
+  },
+  {
+    "id": 148,
+    "keyword": "keyword5",
+    "term": "design",
+    "title": "Participatory data visualizations coalesce virtual learning communities",
+    "country": "USA"
+  },
+  {
+    "id": 148,
+    "keyword": "keyword6",
+    "term": "pedagogy",
+    "title": "Participatory data visualizations coalesce virtual learning communities",
+    "country": "USA"
+  },
+  {
+    "id": 149,
+    "keyword": "keyword1",
+    "term": "Exploratory Data Analysis",
+    "title": "Voyager: Blending Manual & Automated Chart Authoring to Accelerate Data Exploration",
+    "country": "USA"
+  },
+  {
+    "id": 149,
+    "keyword": "keyword2",
+    "term": "Visualization Tools",
+    "title": "Voyager: Blending Manual & Automated Chart Authoring to Accelerate Data Exploration",
+    "country": "USA"
+  },
+  {
+    "id": 149,
+    "keyword": "keyword3",
+    "term": "Visualization Recommendation",
+    "title": "Voyager: Blending Manual & Automated Chart Authoring to Accelerate Data Exploration",
+    "country": "USA"
+  },
+  {
+    "id": 149,
+    "keyword": "keyword4",
+    "term": "Mixed-Initiative System",
+    "title": "Voyager: Blending Manual & Automated Chart Authoring to Accelerate Data Exploration",
+    "country": "USA"
+  },
+  {
+    "id": 150,
+    "keyword": "keyword1",
+    "term": "data visualization",
+    "title": "Thinking like an architect: new insights for designing physical data representations",
+    "country": "Canada"
+  },
+  {
+    "id": 150,
+    "keyword": "keyword2",
+    "term": "Physical Data Representations",
+    "title": "Thinking like an architect: new insights for designing physical data representations",
+    "country": "Canada"
+  },
+  {
+    "id": 150,
+    "keyword": "keyword3",
+    "term": "Situated and Embedded Data",
+    "title": "Thinking like an architect: new insights for designing physical data representations",
+    "country": "Canada"
+  },
+  {
+    "id": 150,
+    "keyword": "keyword4",
+    "term": "architecture",
+    "title": "Thinking like an architect: new insights for designing physical data representations",
+    "country": "Canada"
+  },
+  {
+    "id": 150,
+    "keyword": "keyword5",
+    "term": "design process",
+    "title": "Thinking like an architect: new insights for designing physical data representations",
+    "country": "Canada"
+  },
+  {
+    "id": 150,
+    "keyword": "keyword6",
+    "term": "Physical Prototyping",
+    "title": "Thinking like an architect: new insights for designing physical data representations",
+    "country": "Canada"
+  },
+  {
+    "id": 151,
+    "keyword": "keyword1",
+    "term": "culture participation",
+    "title": "Data visualization to comprehend cultural participation in Chile",
+    "country": "Chile"
+  },
+  {
+    "id": 151,
+    "keyword": "keyword2",
+    "term": "data visualization",
+    "title": "Data visualization to comprehend cultural participation in Chile",
+    "country": "Chile"
+  },
+  {
+    "id": 151,
+    "keyword": "keyword3",
+    "term": "public policy",
+    "title": "Data visualization to comprehend cultural participation in Chile",
+    "country": "Chile"
+  },
+  {
+    "id": 151,
+    "keyword": "keyword4",
+    "term": "culture diversity",
+    "title": "Data visualization to comprehend cultural participation in Chile",
+    "country": "Chile"
+  },
+  {
+    "id": 151,
+    "keyword": "keyword5",
+    "term": "inclusive society",
+    "title": "Data visualization to comprehend cultural participation in Chile",
+    "country": "Chile"
+  },
+  {
+    "id": 152,
+    "keyword": "keyword1",
+    "term": "interactive Visualization",
+    "title": "Interactivity IRL: Lessons and Ideas from Teaching Interactive News Graphics without Computers",
+    "country": "USA"
+  },
+  {
+    "id": 152,
+    "keyword": "keyword2",
+    "term": "community engagement",
+    "title": "Interactivity IRL: Lessons and Ideas from Teaching Interactive News Graphics without Computers",
+    "country": "USA"
+  },
+  {
+    "id": 152,
+    "keyword": "keyword3",
+    "term": "teaching",
+    "title": "Interactivity IRL: Lessons and Ideas from Teaching Interactive News Graphics without Computers",
+    "country": "USA"
+  },
+  {
+    "id": 153,
+    "keyword": "keyword1",
+    "term": "visualization",
+    "title": "Lines that Tell Stories",
+    "country": "USA"
+  },
+  {
+    "id": 153,
+    "keyword": "keyword2",
+    "term": "time",
+    "title": "Lines that Tell Stories",
+    "country": "USA"
+  },
+  {
+    "id": 153,
+    "keyword": "keyword3",
+    "term": "lines",
+    "title": "Lines that Tell Stories",
+    "country": "USA"
+  }
+]
